@@ -1,0 +1,4 @@
+django==4.1
+pip-chill==1.0.1
+# asgiref==3.5.2 # Installed as dependency for django
+# sqlparse==0.4.2 # Installed as dependency for django
