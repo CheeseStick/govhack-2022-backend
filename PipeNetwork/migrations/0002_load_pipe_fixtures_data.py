@@ -28,7 +28,7 @@ def load_fixture(apps, schema_editor):
 
 class Migration(migrations.Migration):
     dependencies = [
-        ("PipeNetwork", "0004_alter_pipe_asset_id"),
+        ("PipeNetwork", "0001_initial"),
     ]
 
     operations = [
