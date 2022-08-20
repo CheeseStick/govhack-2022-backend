@@ -14,9 +14,15 @@ class Pipe(models.Model):
     material = models.CharField(max_length=16, db_index=True, default="Unknown")
     depth = models.FloatField(default=0.0)
 
+    def __str__(self):
+        return str(self.id)
+
 
 class PipeGeometry(models.Model):
     pipe = models.ForeignKey(Pipe, related_name="geometries", on_delete=models.CASCADE)
     latitude = models.DecimalField(default=0.0, decimal_places=16, max_digits=24)
     longitude = models.DecimalField(default=0.0, decimal_places=16, max_digits=24)
     level = models.FloatField(default=0.0)
+
+    def __str__(self):
+        return f"{self.latitude}, {self.longitude}"
