@@ -3,7 +3,7 @@ from django.db import models
 
 class Pipe(models.Model):
     id = models.PositiveBigIntegerField(primary_key=True, unique=True, null=False, db_index=True)
-    asset_id = models.CharField(unique=True, db_index=True, max_length=16)
+    asset_id = models.CharField(db_index=True, max_length=24)
 
     pipe_type = models.CharField(db_index=True, max_length=64, default="Unknown")
     length = models.FloatField(default=0.0)
@@ -20,4 +20,3 @@ class PipeGeometry(models.Model):
     latitude = models.FloatField(default=0.0)
     longitude = models.FloatField(default=0.0)
     level = models.FloatField(default=0.0)
-
