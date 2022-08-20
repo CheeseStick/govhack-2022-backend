@@ -1,7 +1,6 @@
 from rest_framework import serializers
 from .models import Pipe, PipeGeometry
 
-
 class PipeSerializer(serializers.ModelSerializer):
     class Meta:
         model = Pipe
