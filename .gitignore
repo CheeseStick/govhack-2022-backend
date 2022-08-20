@@ -281,3 +281,6 @@ cython_debug/
 
 # IDEA files
 .idea/
+
+
+devscripts/
