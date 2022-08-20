@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     "rest_framework",
 
     # Apps
-
+    "PipeNetwork.apps.PipeNetworkConfig",
 ]
 
 MIDDLEWARE = [
