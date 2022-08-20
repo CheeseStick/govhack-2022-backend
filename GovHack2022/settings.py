@@ -10,8 +10,8 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.1/ref/settings/
 """
 
+import pickle
 from pathlib import Path
-from .math_utility.gen_noise_profiles import generate_noise_profiles
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -44,6 +44,7 @@ INSTALLED_APPS = [
 
     # Apps
     "PipeNetwork.apps.PipeNetworkConfig",
+    "PipeSensor.apps.PipeSensorConfig",
 ]
 
 MIDDLEWARE = [
@@ -133,4 +134,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Math
 
-NOISE_PROFILES = generate_noise_profiles(10)
+with open("GovHack2022/resources/noise_profiles.pkl", "rb") as f:
+    NOISE_PROFILES = pickle.load(f)
