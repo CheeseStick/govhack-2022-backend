@@ -15,7 +15,7 @@ class Pipe(models.Model):
 
 
 class PipeGeometry(models.Model):
-    pipe = models.ForeignKey(Pipe, on_delete=models.CASCADE)
+    pipe = models.ForeignKey(Pipe, related_name="geometries", on_delete=models.CASCADE)
     latitude = models.FloatField(default=0.0)
     longitude = models.FloatField(default=0.0)
     level = models.FloatField(default=0.0)
