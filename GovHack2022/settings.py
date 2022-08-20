@@ -141,6 +141,6 @@ CORS_ALLOW_ALL_ORIGINS = True
 
 
 # Math
-#
-with open("GovHack2022/resources/noise_profiles.pkl", "rb") as f:
-    NOISE_PROFILES = pickle.load(f)
+# - Pickled file for noise (10 items of np array)
+with open(BASE_DIR / "GovHack2022/resources/noise_profiles.pkl", "rb") as f:
+    NOISE_PROFILES: list = pickle.load(f)
