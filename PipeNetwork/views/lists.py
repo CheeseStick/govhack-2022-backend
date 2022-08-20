@@ -1,32 +1,31 @@
 from PipeNetwork.models import Pipe
 from PipeNetwork.serializers import PipeWithGeometrySerializer
-from rest_framework import generics, exceptions
-from rest_framework.permissions import AllowAny
+
+from rest_framework import generics, exceptions, permissions
 
 
 class PipeList(generics.ListAPIView):
     serializer_class = PipeWithGeometrySerializer
-    permission_classes = [AllowAny]
-    def get_queryset(self):
-        start_lat = self.request.query_params.get('start_lat', 0)
-        end_lat = self.request.query_params.get('end_lat', 0)
-        start_long = self.request.query_params.get('start_long', 0)
-        end_long = self.request.query_params.get('end_long', 0)
+    permission_classes = [permissions.AllowAny, ]
 
+    def get_queryset(self):
         try:
-            start_lat = float(start_lat)
-            end_lat = float(end_lat)
-            start_long = float(start_long)
-            end_long = float(end_long)
+            coord_1_lat = self.request.query_params.get("lat_p1", 0.0)
+            coord_1_lon = self.request.query_params.get("lon_p1", 0.0)
+            coord_2_lat = self.request.query_params.get("lat_p2", 0.0)
+            coord_2_lon = self.request.query_params.get("lon_p2", 0.0)
+
+            latitudes = (coord_1_lat, coord_2_lat) if coord_1_lat < coord_2_lat else (coord_2_lat, coord_1_lat)
+            longitudes = (coord_1_lon, coord_2_lon) if coord_1_lon < coord_2_lon else (coord_2_lon, coord_1_lon)
 
         except ValueError:
-            return []
+            raise exceptions.ParseError(detail="Bad query!")
 
         else:
-            queryset = Pipe.objects.filter(geometries__latitude__range=(start_lat,end_lat),
-                                           geometries__longitude__range=(start_long,end_long)).distinct()
+            queryset = Pipe.objects.filter(geometries__latitude__gte=latitudes[1], geometries__latitude__lte=latitudes[0],
+                                           geometries__longitude__gte=longitudes[1], geometries__longitude__lte=longitudes[0]).distinct()
 
-            if queryset.count() > 1000:
-                raise exceptions.NotAcceptable(detail="Server returns too many pipes")
+            if 2048 < queryset.count():
+                raise exceptions.NotAcceptable(detail=f"Server returns too many pipes - Server returned {queryset.count()}")
 
             return queryset
