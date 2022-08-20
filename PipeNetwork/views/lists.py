@@ -20,13 +20,13 @@ class PipeList(generics.ListAPIView):
             end_long = float(end_long)
 
         except ValueError:
-            return []
+            raise exceptions.ParseError(detail="Bad coordinates!")
 
         else:
             queryset = Pipe.objects.filter(geometries__latitude__range=(start_lat,end_lat),
                                            geometries__longitude__range=(start_long,end_long)).distinct()
 
             if queryset.count() > 1000:
-                raise exceptions.NotAcceptable(detail="Server returns too many pipes")
+                raise exceptions.NotAcceptable(detail="Server returns too many pipes!")
 
             return queryset
