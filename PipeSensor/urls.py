@@ -1,8 +1,8 @@
 from django.urls import path
-from .views.levels import Levels
+from .views.generate_value import GenerateSensorValueAPI
 
 app_name = "pipe_sensor"
 
 urlpatterns = [
-    path("", Levels.as_view())
+    path("generate/", GenerateSensorValueAPI.as_view())
 ]
