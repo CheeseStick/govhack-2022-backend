@@ -282,5 +282,8 @@ cython_debug/
 # IDEA files
 .idea/
 
-
 devscripts/
+
+
+# Prevent fixtures from syncing
+PipeNetwork/fixtures/
