@@ -1,0 +1,9 @@
+{
+    "dev": {
+        "django_settings": "GovHack2022.settings",
+        "profile_name": "default",
+        "project_name": "govhack-2022-ba",
+        "runtime": "python3.9",
+        "s3_bucket": "zappa-q24sxp6og"
+    }
+}
