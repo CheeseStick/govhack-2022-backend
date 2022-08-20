@@ -9,7 +9,7 @@ class PipeGeometryInline(admin.TabularInline):
 
 @admin.register(Pipe)
 class PipeAdmin(admin.ModelAdmin):
-    fields = ("id", "asset_id", "pipe_type", "length", "district", "diameter", "material", "depth", )
+    fields = ("id", "asset_id", "pipe_type", "length", "shape_length", "district", "diameter", "material", "depth", )
     search_fields = ("id", "pipe_type", "district", "material", )
     list_filter = ("pipe_type", "district", "material", )
     inlines = (PipeGeometryInline, )

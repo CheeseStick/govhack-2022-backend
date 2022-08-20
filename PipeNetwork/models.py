@@ -7,6 +7,7 @@ class Pipe(models.Model):
 
     pipe_type = models.CharField(db_index=True, max_length=64, default="Unknown")
     length = models.FloatField(default=0.0)
+    shape_length = models.FloatField(default=0.0)
     district = models.CharField(db_index=True, max_length=128)
 
     diameter = models.IntegerField(default=0)
