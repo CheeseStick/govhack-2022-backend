@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 
     # Libraries
     "rest_framework",
+    "corsheaders",
 
     # Apps
     "PipeNetwork.apps.PipeNetworkConfig",
@@ -50,6 +51,7 @@ INSTALLED_APPS = [
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
+    "corsheaders.middleware.CorsMiddleware",
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
@@ -132,7 +134,13 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-# Math
+# CORS Headers
+# https://github.com/adamchainz/django-cors-headers
 
+CORS_ALLOW_ALL_ORIGINS = True
+
+
+# Math
+#
 with open("GovHack2022/resources/noise_profiles.pkl", "rb") as f:
     NOISE_PROFILES = pickle.load(f)

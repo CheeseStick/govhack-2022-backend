@@ -1,7 +1,8 @@
+django-cors-headers==3.13.0
 djangorestframework==3.13.1
-pip-chill==1.0.1
 numpy==1.23.2
+pip-chill==1.0.1
 # asgiref==3.5.2 # Installed as dependency for django
-# django==4.1 # Installed as dependency for djangorestframework
+# django==4.1 # Installed as dependency for djangorestframework, django-cors-headers
 # pytz==2022.2.1 # Installed as dependency for djangorestframework
 # sqlparse==0.4.2 # Installed as dependency for django
