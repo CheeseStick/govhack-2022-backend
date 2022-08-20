@@ -1,11 +1,12 @@
-from django.shortcuts import render
 from rest_framework import generics
 from rest_framework.permissions import AllowAny
+from PipeSensor.serializers import PipeSensorReportSerializer
+from PipeSensor.models import PipeSensorReport
 
-# Create your views here.
-
-
-class Levels(generics.RetrieveAPIView):
+class Levels(generics.ListAPIView):
+    serializer_class = PipeSensorReportSerializer
     permission_classes = [AllowAny]
-    def get_object(self):
-        return {"hello": "world"}
+    def get_queryset(self):
+        queryset = PipeSensorReport.objects.all()
+        return queryset
+
