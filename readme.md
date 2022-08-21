@@ -64,3 +64,9 @@ python manage.py runserver
 ## Disclaimer
 
 Data sets used in this project may have different license. Please check before using them.
+
+
+## Dataset used in this project
+
+- [https://catalogue.data.govt.nz/dataset/canterbury-stormwater-pipelines1](https://catalogue.data.govt.nz/dataset/canterbury-stormwater-pipelines1)
+- [https://api.litterintelligence.com/api/swagger/ui](https://api.litterintelligence.com/api/swagger/ui)
