@@ -1,11 +1,11 @@
 from PipeNetwork.models import Pipe
-from PipeNetwork.serializers import PipeWithGeometrySerializer
+from PipeNetwork.serializers import PipeWithGeometryAndFlowRateSerializer
 
 from rest_framework import generics, exceptions, permissions
 
 
-class PipeList(generics.ListAPIView):
-    serializer_class = PipeWithGeometrySerializer
+class PipeListByGeometryAPI(generics.ListAPIView):
+    serializer_class = PipeWithGeometryAndFlowRateSerializer
     permission_classes = [permissions.AllowAny, ]
 
     def get_queryset(self):
@@ -25,8 +25,8 @@ class PipeList(generics.ListAPIView):
             queryset = Pipe.objects.filter(geometries__latitude__gte=latitudes[0], geometries__latitude__lte=latitudes[1],
                                            geometries__longitude__gte=longitudes[0], geometries__longitude__lte=longitudes[1]).distinct()
 
-            print(queryset)
-            print(queryset.count())
+            # print(queryset)
+            # print(queryset.count())
 
             if 4096 < queryset.count():
                 raise exceptions.NotAcceptable(detail=f"Server returns too many pipes - Server returned {queryset.count()}")

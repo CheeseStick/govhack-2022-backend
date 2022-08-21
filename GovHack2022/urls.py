@@ -20,4 +20,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path("pipe/", include("PipeNetwork.urls")),
     path("sensor/", include("PipeSensor.urls")),
+    path("drainage/", include("DrainageLitter.urls")),
 ]

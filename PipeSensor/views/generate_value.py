@@ -18,13 +18,15 @@ class GenerateSensorValueAPI(views.APIView):
                 seed = float(self.request.query_params.get("seed", 0.0))
                 noise_profile_idx = int(self.request.query_params.get("noise_profile_idx", 0))
 
-                if not(0 < noise_profile_idx < 10):
-                    raise IndexError("Index overflow!")
+                if not(0 <= noise_profile_idx < 10):
+                    raise IndexError(f"Index overflow! Expected value between 0 and 10 but received {noise_profile_idx}")
 
-            except ValueError:
+            except ValueError as e:
+                print(f"Failed to parse - {e}")
                 raise exceptions.ParseError(detail="Failed to parse required query params.")
 
-            except IndexError:
+            except IndexError as e:
+                print(f"Noise profile index overflow - {e}")
                 raise exceptions.ParseError(detail="Bad noise profile index.")
 
             else:

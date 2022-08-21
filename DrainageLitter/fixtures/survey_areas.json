@@ -1,0 +1,5798 @@
+[
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 514,
+        "fields": {
+            "name": "Ahipara - Kaka Street",
+            "start_latitude": -35.1563619,
+            "start_longitude": 173.156906,
+            "end_latitude": -35.1555374,
+            "end_longitude": 173.1574631,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 112,
+        "fields": {
+            "name": "Ahuriri Estuary - Ahuriri Estuary Walkway",
+            "start_latitude": -39.4863852824858,
+            "start_longitude": 176.887466830725,
+            "end_latitude": -39.4860465181214,
+            "end_longitude": 176.88701398266,
+            "width": 0.0,
+            "above_high_tide": 3,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 487,
+        "fields": {
+            "name": "Akaaka",
+            "start_latitude": -13.27707440875487,
+            "start_longitude": -176.1682326672491,
+            "end_latitude": -13.277030212472821,
+            "end_longitude": -176.16828318993836,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 185,
+        "fields": {
+            "name": "All Day Bay - The Freedom Camping Ground",
+            "start_latitude": -45.21191978365668,
+            "start_longitude": 170.8850346041572,
+            "end_latitude": -45.21278856792041,
+            "end_longitude": 170.88519779981195,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 298,
+        "fields": {
+            "name": "Andersons Bay - Marne Street Culvert",
+            "start_latitude": -45.89256,
+            "start_longitude": 170.52813,
+            "end_latitude": -45.89259,
+            "end_longitude": 170.52782,
+            "width": 0.0,
+            "above_high_tide": 2,
+            "below_high_tide": 3
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 200,
+        "fields": {
+            "name": "Apia Harbour Sand Bank",
+            "start_latitude": -13.806745694852738,
+            "start_longitude": -171.7775578030498,
+            "end_latitude": -13.814757590022142,
+            "end_longitude": -171.7695662558803,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 495,
+        "fields": {
+            "name": "Apia Waterfront",
+            "start_latitude": -13.831958,
+            "start_longitude": -171.760726,
+            "end_latitude": -13.832617,
+            "end_longitude": -171.76119,
+            "width": 0.0,
+            "above_high_tide": 8,
+            "below_high_tide": 8
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 505,
+        "fields": {
+            "name": "Auckland Point School",
+            "start_latitude": -41.26847311100306,
+            "start_longitude": 173.27790761382664,
+            "end_latitude": -41.26847311100306,
+            "end_longitude": 173.27790761382664,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 214,
+        "fields": {
+            "name": "Avon Heathcote / Ihutai Estuary  - Windsurfer's reserve ",
+            "start_latitude": -43.54926204245881,
+            "start_longitude": 172.7043812529565,
+            "end_latitude": -43.549596090712384,
+            "end_longitude": 172.70414140092976,
+            "width": 0.0,
+            "above_high_tide": 1,
+            "below_high_tide": 8
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 295,
+        "fields": {
+            "name": "Avon Heathcote Estuary - Settler's Reserve",
+            "start_latitude": -43.5604116,
+            "start_longitude": 172.7065496,
+            "end_latitude": -43.5603048,
+            "end_longitude": 172.7058773,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 220,
+        "fields": {
+            "name": "Avon Heathcote Estuary - The South New Brighton Yachtclub",
+            "start_latitude": -43.53213903032572,
+            "start_longitude": 172.7313785256564,
+            "end_latitude": -43.533001528162075,
+            "end_longitude": 172.731604753223,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 395,
+        "fields": {
+            "name": "Awarua Bay - Tiwai Road",
+            "start_latitude": -46.560045,
+            "start_longitude": 168.419579,
+            "end_latitude": -46.560609,
+            "end_longitude": 168.42054,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 182,
+        "fields": {
+            "name": "Awhitu Peninsula - Cochrane's Gap",
+            "start_latitude": -37.159309,
+            "start_longitude": 174.58847,
+            "end_latitude": -37.15936,
+            "end_longitude": 174.58735,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 38,
+        "fields": {
+            "name": "Awhitu Peninsula - Hamilton's Gap",
+            "start_latitude": -37.13153,
+            "start_longitude": 174.57239,
+            "end_latitude": -37.13073,
+            "end_longitude": 174.57181,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 19,
+        "fields": {
+            "name": "Awhitu Peninsula - Karioitahi Beach",
+            "start_latitude": -37.2877,
+            "start_longitude": 174.65643,
+            "end_latitude": -37.28857,
+            "end_longitude": 174.65681,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 463,
+        "fields": {
+            "name": "Band Rotunda, Edward Street, Dargaville",
+            "start_latitude": -35.94352,
+            "start_longitude": 173.86844,
+            "end_latitude": -35.94352,
+            "end_longitude": 173.86844,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 535,
+        "fields": {
+            "name": "Bark Bay - South End",
+            "start_latitude": -40.91819,
+            "start_longitude": 173.0509,
+            "end_latitude": -40.91726,
+            "end_longitude": 173.0509,
+            "width": 0.0,
+            "above_high_tide": 8,
+            "below_high_tide": 2
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 189,
+        "fields": {
+            "name": "Barrytown  - Stream mouth",
+            "start_latitude": -42.2452872,
+            "start_longitude": 171.3094924,
+            "end_latitude": -42.2443637,
+            "end_longitude": 171.3095229,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 516,
+        "fields": {
+            "name": "Bayleys Beach",
+            "start_latitude": -35.9514335,
+            "start_longitude": 173.7413199,
+            "end_latitude": -35.9521689,
+            "end_longitude": 173.7418429,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 542,
+        "fields": {
+            "name": "Bayview Primary School",
+            "start_latitude": -36.772255,
+            "start_longitude": 174.706245,
+            "end_latitude": -36.772255,
+            "end_longitude": 174.706245,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 161,
+        "fields": {
+            "name": "Birds Beach - Left of Boat Ramp",
+            "start_latitude": -36.32206,
+            "start_longitude": 174.26574,
+            "end_latitude": -36.32293,
+            "end_longitude": 174.26595,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 175,
+        "fields": {
+            "name": "Blueskin Bay - Blueskin Bay Estuary ",
+            "start_latitude": -45.71857286601234,
+            "start_longitude": 170.59481199086855,
+            "end_latitude": -45.71930045167787,
+            "end_longitude": 170.59544129964436,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 400,
+        "fields": {
+            "name": "Bluff- Greenpoint 2 ( SIT research)",
+            "start_latitude": -46.575016,
+            "start_longitude": 168.306579,
+            "end_latitude": -46.575504,
+            "end_longitude": 168.307691,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 178,
+        "fields": {
+            "name": "Bluff Harbour - Greenpoint Domain",
+            "start_latitude": -46.5761192,
+            "start_longitude": 168.3077955,
+            "end_latitude": -46.57678174272163,
+            "end_longitude": 168.3070514928952,
+            "width": 0.0,
+            "above_high_tide": 2,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 402,
+        "fields": {
+            "name": "Bluff Hill- Foveaux Walkway",
+            "start_latitude": -46.619276,
+            "start_longitude": 168.31871,
+            "end_latitude": -46.618835,
+            "end_longitude": 168.319863,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 187,
+        "fields": {
+            "name": "Brighton Beach - Brighton Recreation Reserve",
+            "start_latitude": -45.948939850069515,
+            "start_longitude": 170.33421114443257,
+            "end_latitude": -45.949489201813414,
+            "end_longitude": 170.33304446869053,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 31,
+        "fields": {
+            "name": "Buffalo Beach - South End",
+            "start_latitude": -36.83096,
+            "start_longitude": 175.70809,
+            "end_latitude": -36.83056,
+            "end_longitude": 175.7071,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 324,
+        "fields": {
+            "name": "Cape Palliser - Te Roro Stream",
+            "start_latitude": -41.60838,
+            "start_longitude": 175.3119,
+            "end_latitude": -41.60786,
+            "end_longitude": 175.30959,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 449,
+        "fields": {
+            "name": "Car Park (Lower Dent/Herekino St), Whang\u0101rei",
+            "start_latitude": -35.72775,
+            "start_longitude": 174.32793,
+            "end_latitude": -35.72775,
+            "end_longitude": 174.32793,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 236,
+        "fields": {
+            "name": "Caroline Bay - Northern Cliff face ",
+            "start_latitude": -44.3851624,
+            "start_longitude": 171.2465553,
+            "end_latitude": -44.385814,
+            "end_longitude": 171.2465553,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 96,
+        "fields": {
+            "name": "Castlecliff Beach - North mole",
+            "start_latitude": -39.94779,
+            "start_longitude": 174.98128,
+            "end_latitude": -39.94696,
+            "end_longitude": 174.98091,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 393,
+        "fields": {
+            "name": "Catlins Coast  - Porpoise Bay",
+            "start_latitude": -46.644137,
+            "start_longitude": 169.115228,
+            "end_latitude": -46.644925,
+            "end_longitude": 169.113147,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 195,
+        "fields": {
+            "name": "Catlins Coast - Haldane Bay",
+            "start_latitude": -46.660173,
+            "start_longitude": 169.039476,
+            "end_latitude": -46.660058,
+            "end_longitude": 169.040779,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 207,
+        "fields": {
+            "name": "Catlins Coast - Haldane Estuary ",
+            "start_latitude": -46.65963514246667,
+            "start_longitude": 169.0341314302469,
+            "end_latitude": -46.65894506037855,
+            "end_longitude": 169.03499174878843,
+            "width": 0.0,
+            "above_high_tide": 6,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 192,
+        "fields": {
+            "name": "Catlins Coast - Kaka Point Surf Lifesaving Club",
+            "start_latitude": -46.38652,
+            "start_longitude": 169.78276,
+            "end_latitude": -46.385744931219506,
+            "end_longitude": 169.78331968204097,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 194,
+        "fields": {
+            "name": "Catlins Coast - Pounawea Estuary",
+            "start_latitude": -46.47663021451663,
+            "start_longitude": 169.6931808535595,
+            "end_latitude": -46.477402717587225,
+            "end_longitude": 169.6923938022644,
+            "width": 0.0,
+            "above_high_tide": 4,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 394,
+        "fields": {
+            "name": "Catlins Coast - Waikawa Estuary (north) ",
+            "start_latitude": -46.608335,
+            "start_longitude": 169.141744,
+            "end_latitude": -46.60918,
+            "end_longitude": 169.141662,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 465,
+        "fields": {
+            "name": "Charlotte Street, Dargaville",
+            "start_latitude": -35.93342,
+            "start_longitude": 173.86493,
+            "end_latitude": -35.93342,
+            "end_longitude": 173.86493,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 530,
+        "fields": {
+            "name": "Charteris Bay",
+            "start_latitude": -43.652481,
+            "start_longitude": 172.7056176,
+            "end_latitude": -43.6519646,
+            "end_longitude": 172.7064232,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 531,
+        "fields": {
+            "name": "Children's Bay - carpark end",
+            "start_latitude": -43.79780808898184,
+            "start_longitude": 172.96385002138865,
+            "end_latitude": -43.79815749074182,
+            "end_longitude": 172.9649886722107,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 113,
+        "fields": {
+            "name": "Clive Beach - Richmond road carpark",
+            "start_latitude": -39.58602,
+            "start_longitude": 176.9373,
+            "end_latitude": -39.58523,
+            "end_longitude": 176.93681,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 467,
+        "fields": {
+            "name": "Cobham Road, Kerikeri Domain",
+            "start_latitude": -35.228489,
+            "start_longitude": 173.950775,
+            "end_latitude": -35.228489,
+            "end_longitude": 173.950775,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 441,
+        "fields": {
+            "name": "Colac Bay- Tihaka Beach Road entrance",
+            "start_latitude": -46.360497,
+            "start_longitude": 167.942545,
+            "end_latitude": -46.36019,
+            "end_longitude": 167.940958,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 107,
+        "fields": {
+            "name": "Cook River Mouth - Cook River Mouth South",
+            "start_latitude": -43.44022,
+            "start_longitude": 169.78514,
+            "end_latitude": -43.43939,
+            "end_longitude": 169.7855,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 472,
+        "fields": {
+            "name": "Cross Street, Whang\u0101rei",
+            "start_latitude": -35.71656,
+            "start_longitude": 174.32125,
+            "end_latitude": -35.71656,
+            "end_longitude": 174.32125,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 458,
+        "fields": {
+            "name": "Cuesko, Whang\u0101rei",
+            "start_latitude": -35.7209,
+            "start_longitude": 174.32019,
+            "end_latitude": -35.7209,
+            "end_longitude": 174.32019,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 266,
+        "fields": {
+            "name": "Duvauchelle - Hotel Beach",
+            "start_latitude": -43.7515048,
+            "start_longitude": 172.9271005,
+            "end_latitude": -43.7510702,
+            "end_longitude": 172.9281901,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 172,
+        "fields": {
+            "name": "Eastern Beach - Playground",
+            "start_latitude": -36.873856,
+            "start_longitude": 174.914725,
+            "end_latitude": -36.8744787,
+            "end_longitude": 174.9152894,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 315,
+        "fields": {
+            "name": "Fiordland - Crombie's Stream Mouth",
+            "start_latitude": -46.257124,
+            "start_longitude": 167.167312,
+            "end_latitude": -46.256866,
+            "end_longitude": 167.166557,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 316,
+        "fields": {
+            "name": "Fiordland - Kiwiburn Bay",
+            "start_latitude": -46.211557,
+            "start_longitude": 166.736188,
+            "end_latitude": -46.211108,
+            "end_longitude": 166.735358,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 320,
+        "fields": {
+            "name": "Fiordland - Looking Glass Bay",
+            "start_latitude": -44.923837,
+            "start_longitude": 167.243077,
+            "end_latitude": -44.92466,
+            "end_longitude": 167.242789,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 219,
+        "fields": {
+            "name": "Fiordland - Milford Sound Foreshore",
+            "start_latitude": -44.66948352914087,
+            "start_longitude": 167.91648570352385,
+            "end_latitude": -44.66919435441214,
+            "end_longitude": 167.91542316447254,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 318,
+        "fields": {
+            "name": "Fiordland - South of George Sound (North Site)",
+            "start_latitude": -44.864609,
+            "start_longitude": 167.297583,
+            "end_latitude": -44.864479,
+            "end_longitude": 167.298772,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 319,
+        "fields": {
+            "name": "Fiordland - South of George Sound (South Site)",
+            "start_latitude": -44.86669,
+            "start_longitude": 167.286719,
+            "end_latitude": -44.867008,
+            "end_longitude": 167.285559,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 313,
+        "fields": {
+            "name": "Fiordland - Te Whara Beach",
+            "start_latitude": -46.069588,
+            "start_longitude": 166.636363,
+            "end_latitude": -46.069289,
+            "end_longitude": 166.637607,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 302,
+        "fields": {
+            "name": "Fiordland - Two Thumb Bay",
+            "start_latitude": -44.960049,
+            "start_longitude": 167.1971215,
+            "end_latitude": -44.959139,
+            "end_longitude": 167.197423,
+            "width": 0.0,
+            "above_high_tide": 7,
+            "below_high_tide": 8
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 208,
+        "fields": {
+            "name": "Fiordland - Wairaurahiri East",
+            "start_latitude": -46.258892790312544,
+            "start_longitude": 167.22709446629258,
+            "end_latitude": -46.2590994,
+            "end_longitude": 167.2254229,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 209,
+        "fields": {
+            "name": "Fiordland - Wairaurahiri West",
+            "start_latitude": -46.259621,
+            "start_longitude": 167.2098,
+            "end_latitude": -46.26001,
+            "end_longitude": 167.210964,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 317,
+        "fields": {
+            "name": "Fiordland - West Cape",
+            "start_latitude": -45.941094,
+            "start_longitude": 166.452244,
+            "end_latitude": -45.94048,
+            "end_longitude": 166.451501,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 567,
+        "fields": {
+            "name": "Fitzroy Beach",
+            "start_latitude": -39.042614,
+            "start_longitude": 174.099873,
+            "end_latitude": -39.043511,
+            "end_longitude": 174.099115,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 94,
+        "fields": {
+            "name": "Fitzroy Beach - Fitzroy surf club",
+            "start_latitude": -39.04629,
+            "start_longitude": 174.09673,
+            "end_latitude": -39.0456,
+            "end_longitude": 174.0975,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 47,
+        "fields": {
+            "name": "Foxton Beach - Foxton beach 1",
+            "start_latitude": -40.47411,
+            "start_longitude": 175.21377,
+            "end_latitude": -40.47505,
+            "end_longitude": 175.2142,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 169,
+        "fields": {
+            "name": "Foxton Beach - North of surf club ",
+            "start_latitude": -40.4573283,
+            "start_longitude": 175.215513333333,
+            "end_latitude": -40.45556,
+            "end_longitude": 175.21595,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 191,
+        "fields": {
+            "name": "French Bay - Harbar steps",
+            "start_latitude": -43.805836,
+            "start_longitude": 172.9662927,
+            "end_latitude": -43.8066601,
+            "end_longitude": 172.966372,
+            "width": 0.0,
+            "above_high_tide": 9,
+            "below_high_tide": 1
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 225,
+        "fields": {
+            "name": "Gemstone Beach - Mullans Road Carpark",
+            "start_latitude": -46.27650868224938,
+            "start_longitude": 167.72988612228446,
+            "end_latitude": -46.27571223306121,
+            "end_longitude": 167.72946151867396,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 233,
+        "fields": {
+            "name": "Gillespies Beach - Fox Glacier",
+            "start_latitude": -43.4150506,
+            "start_longitude": 169.8194722,
+            "end_latitude": -43.414809,
+            "end_longitude": 169.81959,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 464,
+        "fields": {
+            "name": "Gladstone Street, Dargaville",
+            "start_latitude": -35.93746,
+            "start_longitude": 173.87094,
+            "end_latitude": -35.93746,
+            "end_longitude": 173.87094,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 399,
+        "fields": {
+            "name": "Glen Innes  - Tahuna Torea",
+            "start_latitude": -36.867189,
+            "start_longitude": 174.881781,
+            "end_latitude": -36.86784707478,
+            "end_longitude": 174.88253488221,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 571,
+        "fields": {
+            "name": "Glenduan",
+            "start_latitude": -41.185124325401425,
+            "start_longitude": -41.185124325401425,
+            "end_latitude": -41.18660472160443,
+            "end_longitude": 173.35885528639355,
+            "width": 0.0,
+            "above_high_tide": 1,
+            "below_high_tide": 1
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 126,
+        "fields": {
+            "name": "Glenduan Reserve - Marine reserve north boundary survey area ",
+            "start_latitude": -41.183274658435195,
+            "start_longitude": 173.36472401411586,
+            "end_latitude": -41.182296616063624,
+            "end_longitude": 173.36584978753083,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 268,
+        "fields": {
+            "name": "Glinks Gully",
+            "start_latitude": -36.08148,
+            "start_longitude": 173.85617,
+            "end_latitude": -36.08083,
+            "end_longitude": 173.85541,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 533,
+        "fields": {
+            "name": "Goat Island Bay",
+            "start_latitude": -36.2700435,
+            "start_longitude": 174.7959639,
+            "end_latitude": -36.2702375,
+            "end_longitude": 174.7948773,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 174,
+        "fields": {
+            "name": "Granity - Granity Beach south",
+            "start_latitude": -41.6302612,
+            "start_longitude": 171.8511051,
+            "end_latitude": -41.6309812,
+            "end_longitude": 171.850353,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 176,
+        "fields": {
+            "name": "Greymouth - Paroa beach north",
+            "start_latitude": -42.50772575368436,
+            "start_longitude": 171.16604934037264,
+            "end_latitude": -42.50688370949391,
+            "end_longitude": 171.16646183033276,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 509,
+        "fields": {
+            "name": "Greymouth - Top 10 Beach access",
+            "start_latitude": -42.46625,
+            "start_longitude": 171.18635,
+            "end_latitude": -42.467118,
+            "end_longitude": 171.186002,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 543,
+        "fields": {
+            "name": "Harbour view reserve - Point Chevalier",
+            "start_latitude": -36.8558623,
+            "start_longitude": 174.70145,
+            "end_latitude": -36.85506,
+            "end_longitude": 174.70197,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 376,
+        "fields": {
+            "name": "H\u0101tea Drive East Car Park, Whang\u0101rei",
+            "start_latitude": -35.722301329151314,
+            "start_longitude": 174.32400844371492,
+            "end_latitude": -35.722301329151314,
+            "end_longitude": 174.32400844371492,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 445,
+        "fields": {
+            "name": "H\u0101tea Drive West Car Park",
+            "start_latitude": -35.72241,
+            "start_longitude": 174.32296,
+            "end_latitude": -35.72241,
+            "end_longitude": 174.32296,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 43,
+        "fields": {
+            "name": "Hatea River - Whangarei",
+            "start_latitude": -35.7297,
+            "start_longitude": 174.33475,
+            "end_latitude": -35.7307,
+            "end_longitude": 174.33492,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 133,
+        "fields": {
+            "name": "Haulashore Island - East Beach Haulashore Island",
+            "start_latitude": -41.2675809,
+            "start_longitude": 173.2582811,
+            "end_latitude": -41.2684401,
+            "end_longitude": 173.2585019,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 272,
+        "fields": {
+            "name": "Haumoana Beach - Clifton Road Reserve ",
+            "start_latitude": -39.6180846,
+            "start_longitude": 176.9599656,
+            "end_latitude": -39.6188038,
+            "end_longitude": 176.9606849,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 271,
+        "fields": {
+            "name": "Hokio Beach - South Side of the Estuary",
+            "start_latitude": -40.599464,
+            "start_longitude": 175.178283,
+            "end_latitude": -40.600453,
+            "end_longitude": 175.177725,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 227,
+        "fields": {
+            "name": "Hokitika - Beachfront",
+            "start_latitude": -42.7169359,
+            "start_longitude": 170.9597217,
+            "end_latitude": -42.7175041,
+            "end_longitude": 170.9587993,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 190,
+        "fields": {
+            "name": "Hokitika - Tudor Street Groynes",
+            "start_latitude": -42.710188818203946,
+            "start_longitude": 170.96790136785336,
+            "end_latitude": -42.710882169234296,
+            "end_longitude": 170.9672706296397,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 292,
+        "fields": {
+            "name": "Hokitika Beach - Sunset Point ",
+            "start_latitude": -42.720074,
+            "start_longitude": 170.9544611,
+            "end_latitude": -42.7195282,
+            "end_longitude": 170.955531,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 199,
+        "fields": {
+            "name": "Hokitika Southside - Hokitika",
+            "start_latitude": -42.7370189,
+            "start_longitude": 170.9363394,
+            "end_latitude": -42.7363014,
+            "end_longitude": 170.9370593,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 164,
+        "fields": {
+            "name": "Hongoeka Bay - Hongoeka Beach",
+            "start_latitude": -41.0665817605714,
+            "start_longitude": 174.851609766646,
+            "end_latitude": -41.0672238981734,
+            "end_longitude": 174.852418955578,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 455,
+        "fields": {
+            "name": "Hospital (Car park #16), Whang\u0101rei",
+            "start_latitude": -35.736246,
+            "start_longitude": 174.305079,
+            "end_latitude": -35.736246,
+            "end_longitude": 174.305079,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 480,
+        "fields": {
+            "name": "Hospital (Car park #8), Whang\u0101rei",
+            "start_latitude": -35.735849,
+            "start_longitude": 174.302492,
+            "end_latitude": -35.735849,
+            "end_longitude": 174.302492,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 453,
+        "fields": {
+            "name": "Hospital (Emergency Entrance), Whang\u0101rei ",
+            "start_latitude": -35.735441,
+            "start_longitude": 174.302862,
+            "end_latitude": -35.735441,
+            "end_longitude": 174.302862,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 456,
+        "fields": {
+            "name": "Hospital (Maternity Entrance), Whang\u0101rei ",
+            "start_latitude": -35.736281,
+            "start_longitude": 174.302594,
+            "end_latitude": -35.736281,
+            "end_longitude": 174.302594,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 454,
+        "fields": {
+            "name": "Hospital (Mental Health Entrance), Whang\u0101rei ",
+            "start_latitude": -35.735162,
+            "start_longitude": 174.301523,
+            "end_latitude": -35.735162,
+            "end_longitude": 174.301523,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 481,
+        "fields": {
+            "name": "Hospital (Upper carpark next to kitchen unit)",
+            "start_latitude": -35.73542,
+            "start_longitude": 174.302472,
+            "end_latitude": -35.73542,
+            "end_longitude": 174.302472,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 20,
+        "fields": {
+            "name": "Island Bay - The Surf Club Rooms",
+            "start_latitude": -41.34342,
+            "start_longitude": 174.77398,
+            "end_latitude": -41.34347,
+            "end_longitude": 174.7728,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 173,
+        "fields": {
+            "name": "Jacobs River Estuary - End of Lucknow street",
+            "start_latitude": -46.34465759624386,
+            "start_longitude": 168.01917825841159,
+            "end_latitude": -46.34554561697537,
+            "end_longitude": 168.01897382379323,
+            "width": 0.0,
+            "above_high_tide": 8,
+            "below_high_tide": 4
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 149,
+        "fields": {
+            "name": "Jacobs River Estuary Entrance (North Side) - Rugby club rooms",
+            "start_latitude": -46.355822710363526,
+            "start_longitude": 168.01624450848252,
+            "end_latitude": -46.356171062259335,
+            "end_longitude": 168.0174282008484,
+            "width": 0.0,
+            "above_high_tide": 7,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 270,
+        "fields": {
+            "name": "Kai Iwi - Main Beach",
+            "start_latitude": -39.886165,
+            "start_longitude": 174.901517,
+            "end_latitude": -39.886578,
+            "end_longitude": 174.90234,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 289,
+        "fields": {
+            "name": "Kaik\u014dura - South Bay Moa Rd",
+            "start_latitude": -42.4232141,
+            "start_longitude": 173.6813764,
+            "end_latitude": -42.4223078,
+            "end_longitude": 173.6811304,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 167,
+        "fields": {
+            "name": "Kaikoura Peninsula - South Bay Reserve ",
+            "start_latitude": -42.425349117296214,
+            "start_longitude": 173.6872123742231,
+            "end_latitude": -42.42478178818004,
+            "end_longitude": 173.686480047343,
+            "width": 0.0,
+            "above_high_tide": 2,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 180,
+        "fields": {
+            "name": "Kaiteriteri Beach - Kaiteriteri front beach",
+            "start_latitude": -41.0369126,
+            "start_longitude": 173.0177445,
+            "end_latitude": -41.0377702,
+            "end_longitude": 173.017313,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 106,
+        "fields": {
+            "name": "Kaiti Beach - North end",
+            "start_latitude": -38.680763,
+            "start_longitude": 178.027737,
+            "end_latitude": -38.681331,
+            "end_longitude": 178.028636,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 143,
+        "fields": {
+            "name": "Kapiti Island - Boulder Bank North Side",
+            "start_latitude": -40.8257109,
+            "start_longitude": 174.9511636,
+            "end_latitude": -40.8263389,
+            "end_longitude": 174.9521054,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 144,
+        "fields": {
+            "name": "Kapiti Island - Boulder Bank South",
+            "start_latitude": -40.8316376,
+            "start_longitude": 174.9511543,
+            "end_latitude": -40.8315979,
+            "end_longitude": 174.9499661,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 522,
+        "fields": {
+            "name": "K\u0101piti island - Rangatira North ",
+            "start_latitude": -40.85161094956325,
+            "start_longitude": 174.93418068517812,
+            "end_latitude": -40.85241734903431,
+            "end_longitude": 174.93468396066126,
+            "width": 0.0,
+            "above_high_tide": 6,
+            "below_high_tide": 6
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 232,
+        "fields": {
+            "name": "K\u0101piti Island - Rangatira South",
+            "start_latitude": -40.854768522190135,
+            "start_longitude": 174.932366614198,
+            "end_latitude": -40.85439257406867,
+            "end_longitude": 174.933338320852,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 142,
+        "fields": {
+            "name": "Kapiti Island - Tokohaki Point",
+            "start_latitude": -40.82086,
+            "start_longitude": 174.93647,
+            "end_latitude": -40.82125,
+            "end_longitude": 174.93614,
+            "width": 0.0,
+            "above_high_tide": 7,
+            "below_high_tide": 6
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 155,
+        "fields": {
+            "name": "Karitane Beach - North End",
+            "start_latitude": -45.64249001913298,
+            "start_longitude": 170.66201152295866,
+            "end_latitude": -45.64357740343142,
+            "end_longitude": 170.65992962584892,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 506,
+        "fields": {
+            "name": "Karori Park",
+            "start_latitude": -41.287580854460536,
+            "start_longitude": 174.72383587438947,
+            "end_latitude": -41.287742006754584,
+            "end_longitude": 174.7236810236296,
+            "width": 7.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 510,
+        "fields": {
+            "name": "Karoro Beach - Karoro Top 10 Holiday Park Beach Access",
+            "start_latitude": -42.46579,
+            "start_longitude": 171.18654,
+            "end_latitude": -42.46755,
+            "end_longitude": 171.18584,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 60,
+        "fields": {
+            "name": "Kina Beach - Campground",
+            "start_latitude": -41.1831,
+            "start_longitude": 173.06479,
+            "end_latitude": -41.18385,
+            "end_longitude": 173.06572,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 483,
+        "fields": {
+            "name": "Kolofoou Fasi Seawall",
+            "start_latitude": -21.135403,
+            "start_longitude": -175.193049,
+            "end_latitude": -21.135403,
+            "end_longitude": -175.193049,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 553,
+        "fields": {
+            "name": "K\u014dwhai Intermediate School",
+            "start_latitude": -36.87265,
+            "start_longitude": 174.748231,
+            "end_latitude": -36.87265,
+            "end_longitude": 174.748231,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 166,
+        "fields": {
+            "name": "Kulim Park - Kulim Beach West ",
+            "start_latitude": -37.6648776,
+            "start_longitude": 176.1479596,
+            "end_latitude": -37.6649731,
+            "end_longitude": 176.1490827,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 563,
+        "fields": {
+            "name": "Laingholm Beach - Near stream",
+            "start_latitude": -36.966185742092286,
+            "start_longitude": 174.64181953126064,
+            "end_latitude": -36.96697703371082,
+            "end_longitude": 174.6419636999952,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 549,
+        "fields": {
+            "name": "Lake front site - Faith's Jetty Lake Te Anau",
+            "start_latitude": -45.41730476686653,
+            "start_longitude": 167.71157420898035,
+            "end_latitude": -45.416732237084425,
+            "end_longitude": 167.710563469937,
+            "width": 0.0,
+            "above_high_tide": 8,
+            "below_high_tide": 6
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 267,
+        "fields": {
+            "name": "Lake Taharoa - by campground ",
+            "start_latitude": -35.80944191,
+            "start_longitude": 173.66172331,
+            "end_latitude": -35.80855759,
+            "end_longitude": 173.66185986,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 259,
+        "fields": {
+            "name": "Langs beach - Cove Rd Entrance",
+            "start_latitude": -36.0477589,
+            "start_longitude": 174.5388032,
+            "end_latitude": -36.0478409,
+            "end_longitude": 174.5391528,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 485,
+        "fields": {
+            "name": "Lavegahau bord de mer",
+            "start_latitude": -13.3153768,
+            "start_longitude": -176.1876694,
+            "end_latitude": -13.316006,
+            "end_longitude": -176.187809,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 471,
+        "fields": {
+            "name": "Lincoln Place, Whang\u0101rei",
+            "start_latitude": -35.68829,
+            "start_longitude": 174.30485,
+            "end_latitude": -35.68829,
+            "end_longitude": 174.30485,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 278,
+        "fields": {
+            "name": "Little Bucklands Beach - South end",
+            "start_latitude": -36.87576,
+            "start_longitude": 174.905677,
+            "end_latitude": -36.87490218,
+            "end_longitude": 174.9059111719,
+            "width": 0.0,
+            "above_high_tide": 8,
+            "below_high_tide": 8
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 120,
+        "fields": {
+            "name": "Little Kaiteriteri Beach  - Little Kaiteriteri ",
+            "start_latitude": -41.04153,
+            "start_longitude": 173.0184,
+            "end_latitude": -41.0423558327633,
+            "end_longitude": 173.018987401823,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 286,
+        "fields": {
+            "name": "Little Shoal Bay - East",
+            "start_latitude": -36.81649850972377,
+            "start_longitude": 174.74169548762032,
+            "end_latitude": -36.8165697,
+            "end_longitude": 174.7405931,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 42,
+        "fields": {
+            "name": "Little Shoal Bay - West",
+            "start_latitude": -36.81675,
+            "start_longitude": 174.73924,
+            "end_latitude": -36.81655,
+            "end_longitude": 174.74024,
+            "width": 0.0,
+            "above_high_tide": 7,
+            "below_high_tide": 7
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 274,
+        "fields": {
+            "name": "Long Bay -  Northern End ASHS",
+            "start_latitude": -36.683605,
+            "start_longitude": 174.750048,
+            "end_latitude": -36.68272,
+            "end_longitude": 174.74972,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 224,
+        "fields": {
+            "name": "Long Bay - MERC Monitoring Site ",
+            "start_latitude": -36.68890672739287,
+            "start_longitude": 174.75176470370474,
+            "end_latitude": -36.68840875852545,
+            "end_longitude": 174.7524951027471,
+            "width": 0.0,
+            "above_high_tide": 6,
+            "below_high_tide": 8
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 53,
+        "fields": {
+            "name": "Lyall Bay - Lyall Bay East End",
+            "start_latitude": -41.32881,
+            "start_longitude": 174.80387,
+            "end_latitude": -41.32859,
+            "end_longitude": 174.80268,
+            "width": 0.0,
+            "above_high_tide": 7,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 438,
+        "fields": {
+            "name": "Mahia Beach - Boat Club",
+            "start_latitude": -39.08506255,
+            "start_longitude": 177.8722822109,
+            "end_latitude": -39.084151689,
+            "end_longitude": 177.87245227997,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 36,
+        "fields": {
+            "name": "Makara Beach - Makara beach",
+            "start_latitude": -41.21962,
+            "start_longitude": 174.71341,
+            "end_latitude": -41.21989,
+            "end_longitude": 174.71226,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 437,
+        "fields": {
+            "name": "Makara Coast - Opau Bay",
+            "start_latitude": -41.232876,
+            "start_longitude": 174.687507,
+            "end_latitude": -41.232824,
+            "end_longitude": 174.688611,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 146,
+        "fields": {
+            "name": "Maleafatu Park Seawall (Apia Bay)",
+            "start_latitude": -13.827039,
+            "start_longitude": -171.771957,
+            "end_latitude": -13.8263036,
+            "end_longitude": -171.772419,
+            "width": 0.0,
+            "above_high_tide": 8,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 138,
+        "fields": {
+            "name": "Mana Island - McGregors Rock",
+            "start_latitude": -41.0858364101381,
+            "start_longitude": 174.788055320359,
+            "end_latitude": -41.0866599,
+            "end_longitude": 174.7879891,
+            "width": 0.0,
+            "above_high_tide": 3,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 139,
+        "fields": {
+            "name": "Mana Island - South Point ",
+            "start_latitude": -41.0967757,
+            "start_longitude": 174.77123099999994,
+            "end_latitude": -41.0973272,
+            "end_longitude": 174.7721003,
+            "width": 0.0,
+            "above_high_tide": 3,
+            "below_high_tide": 4
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 140,
+        "fields": {
+            "name": "Mana Island - West Point ",
+            "start_latitude": -41.09119,
+            "start_longitude": 174.77105,
+            "end_latitude": -41.0920482,
+            "end_longitude": 174.7705697,
+            "width": 0.0,
+            "above_high_tide": 4,
+            "below_high_tide": 4
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 515,
+        "fields": {
+            "name": "Mangawhai - Boat Ramp",
+            "start_latitude": -36.0870601,
+            "start_longitude": 174.5898743,
+            "end_latitude": -36.0866078,
+            "end_longitude": 174.5897986,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 260,
+        "fields": {
+            "name": "Mangawhai Heads - Mangawhai Heads Beach",
+            "start_latitude": -36.0809717459877,
+            "start_longitude": 174.59877,
+            "end_latitude": -36.0801,
+            "end_longitude": 174.5983,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 241,
+        "fields": {
+            "name": "Mangawhai Heads - Picnic Bay",
+            "start_latitude": -36.08187953479223,
+            "start_longitude": 174.5962810704248,
+            "end_latitude": -36.08220957222961,
+            "end_longitude": 174.59740810112524,
+            "width": 0.0,
+            "above_high_tide": 6,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 59,
+        "fields": {
+            "name": "Mangere Bridge - Mangere Boat Club",
+            "start_latitude": -36.93909,
+            "start_longitude": 174.7793,
+            "end_latitude": -36.93829,
+            "end_longitude": 174.77874,
+            "width": 0.0,
+            "above_high_tide": 3,
+            "below_high_tide": 7
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 564,
+        "fields": {
+            "name": "Mangere Bridge West",
+            "start_latitude": -36.93960382303687,
+            "start_longitude": 174.777861646019,
+            "end_latitude": -36.93914994179713,
+            "end_longitude": 174.77794203676194,
+            "width": 0.0,
+            "above_high_tide": 4,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 285,
+        "fields": {
+            "name": "Manukau Central Toyota T-6",
+            "start_latitude": -36.991096,
+            "start_longitude": 174.884982,
+            "end_latitude": -36.991096,
+            "end_longitude": 174.884982,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 283,
+        "fields": {
+            "name": "Manukau Commercial Toyota T-4",
+            "start_latitude": -36.983599,
+            "start_longitude": 174.877745,
+            "end_latitude": -36.983599,
+            "end_longitude": 174.877745,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 284,
+        "fields": {
+            "name": "Manukau Commercial Toyota T-5",
+            "start_latitude": -36.983364,
+            "start_longitude": 174.877336,
+            "end_latitude": -36.983364,
+            "end_longitude": 174.877336,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 363,
+        "fields": {
+            "name": "Manutahi - Manawapou stream",
+            "start_latitude": -39.656511,
+            "start_longitude": 174.350214,
+            "end_latitude": -39.655677,
+            "end_longitude": 174.349824,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 100,
+        "fields": {
+            "name": "Maraetai Beach - North End",
+            "start_latitude": -36.87936,
+            "start_longitude": 175.04208,
+            "end_latitude": -36.88006,
+            "end_longitude": 175.04289,
+            "width": 0.0,
+            "above_high_tide": 6,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 561,
+        "fields": {
+            "name": "Maraetai Beach School",
+            "start_latitude": -36.878416,
+            "start_longitude": 175.037375,
+            "end_latitude": -36.878416,
+            "end_longitude": 175.037375,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 108,
+        "fields": {
+            "name": "Marahau - Marahau Wakatu",
+            "start_latitude": -41.0024371510753,
+            "start_longitude": 173.009965410617,
+            "end_latitude": -41.00359,
+            "end_longitude": 173.00977,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 111,
+        "fields": {
+            "name": "Marine Parade - North Site National Aquarium of NZ ",
+            "start_latitude": -39.50069,
+            "start_longitude": 176.91975,
+            "end_latitude": -39.49955,
+            "end_longitude": 176.91978,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 110,
+        "fields": {
+            "name": "Marine Parade - South Site National Aquarium of NZ ",
+            "start_latitude": -39.5007,
+            "start_longitude": 176.91977,
+            "end_latitude": -39.5016,
+            "end_longitude": 176.91971,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 218,
+        "fields": {
+            "name": "Marine Parade - The Fountain",
+            "start_latitude": -39.4997124,
+            "start_longitude": 176.9196929,
+            "end_latitude": -39.4988564,
+            "end_longitude": 176.9198278,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 240,
+        "fields": {
+            "name": "Marine Parade - The Pump Track Car Park",
+            "start_latitude": -39.5093868,
+            "start_longitude": 176.9191394,
+            "end_latitude": -39.50833498858572,
+            "end_longitude": 176.91918020111666,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 160,
+        "fields": {
+            "name": "Marlborough Sounds - Anakiwa ",
+            "start_latitude": -41.2644417,
+            "start_longitude": 173.919495,
+            "end_latitude": -41.26442,
+            "end_longitude": 173.9183,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 4
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 566,
+        "fields": {
+            "name": "Marlborough Sounds - Cow Shed Bay, Kenepuru Sound",
+            "start_latitude": -41.201922457187315,
+            "start_longitude": 174.0321130447461,
+            "end_latitude": -41.20187299757724,
+            "end_longitude": 174.031277906663,
+            "width": 0.0,
+            "above_high_tide": 4,
+            "below_high_tide": 4
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 129,
+        "fields": {
+            "name": "Marlborough Sounds - Double Bay ",
+            "start_latitude": -41.256628171579216,
+            "start_longitude": 173.86426012979248,
+            "end_latitude": -41.25687283933279,
+            "end_longitude": 173.86556460538304,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 513,
+        "fields": {
+            "name": "Marlborough Sounds - Ketu Bay, Pelorus Sound",
+            "start_latitude": -40.995284,
+            "start_longitude": 173.994761,
+            "end_latitude": -40.994777,
+            "end_longitude": 173.995531,
+            "width": 0.0,
+            "above_high_tide": 3,
+            "below_high_tide": 3
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 222,
+        "fields": {
+            "name": "Marlborough Sounds - Long Island South",
+            "start_latitude": -41.124220454971066,
+            "start_longitude": 174.2711522064585,
+            "end_latitude": -41.12351474744526,
+            "end_longitude": 174.26997364947925,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 223,
+        "fields": {
+            "name": "Marlborough Sounds - Long Island West ",
+            "start_latitude": -41.12331048123643,
+            "start_longitude": 174.2697139085962,
+            "end_latitude": -41.12264483239606,
+            "end_longitude": 174.27050792628364,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 246,
+        "fields": {
+            "name": "Marlborough Sounds - Manaroa Head",
+            "start_latitude": -41.1141516,
+            "start_longitude": 174.0381155,
+            "end_latitude": -41.1139666,
+            "end_longitude": 174.0384986,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 247,
+        "fields": {
+            "name": "Marlborough Sounds - Ngakuta Bay ",
+            "start_latitude": -41.2732,
+            "start_longitude": 173.96117,
+            "end_latitude": -41.273099690764795,
+            "end_longitude": 173.96021440310335,
+            "width": 0.0,
+            "above_high_tide": 3,
+            "below_high_tide": 2
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 61,
+        "fields": {
+            "name": "Marlborough Sounds - Picton Foreshore ",
+            "start_latitude": -41.2884,
+            "start_longitude": 174.00782,
+            "end_latitude": -41.28795,
+            "end_longitude": 174.00673,
+            "width": 0.0,
+            "above_high_tide": 6,
+            "below_high_tide": 6
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 528,
+        "fields": {
+            "name": "Marlborough Sounds - Pig Bay",
+            "start_latitude": -41.175141,
+            "start_longitude": 174.050686,
+            "end_latitude": -41.17502,
+            "end_longitude": 174.050303,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 540,
+        "fields": {
+            "name": "Marlborough Sounds - Pine Tree Beach, Pelorus Sound",
+            "start_latitude": -41.192666752736315,
+            "start_longitude": 173.88589735872247,
+            "end_latitude": -41.19192175207213,
+            "end_longitude": 173.88676802926494,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 150,
+        "fields": {
+            "name": "Marlborough Sounds - Shelley Beach",
+            "start_latitude": -41.286612125152054,
+            "start_longitude": 174.0100663529467,
+            "end_latitude": -41.287146833035294,
+            "end_longitude": 174.0094282386583,
+            "width": 0.0,
+            "above_high_tide": 2,
+            "below_high_tide": 1
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 159,
+        "fields": {
+            "name": "Marlborough Sounds - Waitaria Bay ",
+            "start_latitude": -41.16014380002307,
+            "start_longitude": 174.0423145519328,
+            "end_latitude": -41.15959177141747,
+            "end_longitude": 174.04326766901124,
+            "width": 0.0,
+            "above_high_tide": 8,
+            "below_high_tide": 6
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 556,
+        "fields": {
+            "name": "Marsden Bay Reserve -  Chain Poles",
+            "start_latitude": -35.835196520235236,
+            "start_longitude": 174.47198976778841,
+            "end_latitude": -35.83570961843788,
+            "end_longitude": 174.4728983660922,
+            "width": 0.0,
+            "above_high_tide": 2,
+            "below_high_tide": 3
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 98,
+        "fields": {
+            "name": "Matai Bay - North end of the beach ",
+            "start_latitude": -34.82723,
+            "start_longitude": 173.40705,
+            "end_latitude": -34.82634,
+            "end_longitude": 173.40682,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 99,
+        "fields": {
+            "name": "Matai Bay - South end of the bay",
+            "start_latitude": -34.82851,
+            "start_longitude": 173.41081,
+            "end_latitude": -34.8286,
+            "end_longitude": 173.4096,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 255,
+        "fields": {
+            "name": "Matapouri Beach - Morrison Ave Carpark",
+            "start_latitude": -35.5630590252,
+            "start_longitude": 174.5068900867,
+            "end_latitude": -35.56221116547,
+            "end_longitude": 174.507069447,
+            "width": 0.0,
+            "above_high_tide": 7,
+            "below_high_tide": 8
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 398,
+        "fields": {
+            "name": "McDonalds Kamo",
+            "start_latitude": -35.68367,
+            "start_longitude": 174.30049,
+            "end_latitude": -35.68367,
+            "end_longitude": 174.30049,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 396,
+        "fields": {
+            "name": "McDonalds Raumanga (1)",
+            "start_latitude": -35.75055,
+            "start_longitude": 174.30821,
+            "end_latitude": -35.75055,
+            "end_longitude": 174.30821,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 397,
+        "fields": {
+            "name": "McDonalds Raumanga (2)",
+            "start_latitude": -35.75083,
+            "start_longitude": 174.30814,
+            "end_latitude": -35.75083,
+            "end_longitude": 174.30814,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 569,
+        "fields": {
+            "name": "Middleton Bay",
+            "start_latitude": -39.454399,
+            "start_longitude": 173.848785,
+            "end_latitude": -39.453583,
+            "end_longitude": 173.847916,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 263,
+        "fields": {
+            "name": "Midway Beach - Beacon Reserve",
+            "start_latitude": -38.67069,
+            "start_longitude": 178.008643,
+            "end_latitude": -38.67072,
+            "end_longitude": 178.0098,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 40,
+        "fields": {
+            "name": "Midway Beach - Pipe",
+            "start_latitude": -38.672387,
+            "start_longitude": 177.999978,
+            "end_latitude": -38.672625,
+            "end_longitude": 177.998928,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 541,
+        "fields": {
+            "name": "Milford School",
+            "start_latitude": -36.775426,
+            "start_longitude": 174.762486,
+            "end_latitude": -36.775426,
+            "end_longitude": 174.762486,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 201,
+        "fields": {
+            "name": "Moataa Mangrove (Moataa Community)",
+            "start_latitude": -13.8352537,
+            "start_longitude": -171.7450573,
+            "end_latitude": -13.8346134,
+            "end_longitude": -171.7448785,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 1
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 186,
+        "fields": {
+            "name": "Moeraki - Moeraki Reserve",
+            "start_latitude": -45.35759851806365,
+            "start_longitude": 170.8552706336331,
+            "end_latitude": -45.35728901628904,
+            "end_longitude": 170.85563792863007,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 8
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 210,
+        "fields": {
+            "name": "Monkey Island - Freedom Camping Site",
+            "start_latitude": -46.300278101159535,
+            "start_longitude": 167.72788306713824,
+            "end_latitude": -46.29956790250381,
+            "end_longitude": 167.72881421276156,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 188,
+        "fields": {
+            "name": "Motueka Sandspit - Motueka Sandspit",
+            "start_latitude": -41.1123084,
+            "start_longitude": 173.0301338,
+            "end_latitude": -41.11318023,
+            "end_longitude": 173.030454,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 276,
+        "fields": {
+            "name": "Motutapu Sandy Bay  -Island Map",
+            "start_latitude": -36.745985,
+            "start_longitude": 174.9149878,
+            "end_latitude": -36.74528,
+            "end_longitude": 174.9157136,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 117,
+        "fields": {
+            "name": "Mount Maunganui - Camping ground",
+            "start_latitude": -37.62965131258453,
+            "start_longitude": 176.17651571540227,
+            "end_latitude": -37.63042213872291,
+            "end_longitude": 176.1772578227078,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 57,
+        "fields": {
+            "name": "Moutere Inlet (Rivermouth) - Batchelors ford entry",
+            "start_latitude": -41.14591,
+            "start_longitude": 173.00091,
+            "end_latitude": -41.14538,
+            "end_longitude": 173.00188,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 104,
+        "fields": {
+            "name": "Muriwai Beach - Muriwai surf tower",
+            "start_latitude": -36.8262,
+            "start_longitude": 174.42555,
+            "end_latitude": -36.8254,
+            "end_longitude": 174.42509,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 443,
+        "fields": {
+            "name": "New River Estuary - Oreti River Entrance",
+            "start_latitude": -46.459114,
+            "start_longitude": 168.286197,
+            "end_latitude": -46.459594,
+            "end_longitude": 168.285322,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 217,
+        "fields": {
+            "name": "Nga Motu Beach - North End",
+            "start_latitude": -39.0603589,
+            "start_longitude": 174.0434007,
+            "end_latitude": -39.0605623,
+            "end_longitude": 174.0423027,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 507,
+        "fields": {
+            "name": "Ng\u0101motu beach - Middle",
+            "start_latitude": -39.06068098120626,
+            "start_longitude": 174.04196030250057,
+            "end_latitude": -39.0605836959446,
+            "end_longitude": 174.0408142658347,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 508,
+        "fields": {
+            "name": "Ng\u0101motu Beach - South End",
+            "start_latitude": -39.05929790621544,
+            "start_longitude": 174.03687082489236,
+            "end_latitude": -39.059818601627946,
+            "end_longitude": 174.0377285803516,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 234,
+        "fields": {
+            "name": "Ngarunui beach",
+            "start_latitude": -37.8173,
+            "start_longitude": 174.82928,
+            "end_latitude": -37.81819,
+            "end_longitude": 174.82883,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 163,
+        "fields": {
+            "name": "Ngunguru Sandspit (East Side) - Ngunguru Sandspit SE Mussel Rock",
+            "start_latitude": -35.6463046,
+            "start_longitude": 174.5034005,
+            "end_latitude": -35.6471923,
+            "end_longitude": 174.5029688,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 475,
+        "fields": {
+            "name": "NorthTec Car Park",
+            "start_latitude": -35.74293,
+            "start_longitude": 174.30546,
+            "end_latitude": -35.74293,
+            "end_longitude": 174.30546,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 477,
+        "fields": {
+            "name": "NRC Head Office (Reception car park- 1)",
+            "start_latitude": -35.7259,
+            "start_longitude": 174.31805,
+            "end_latitude": -35.7259,
+            "end_longitude": 174.31805,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 478,
+        "fields": {
+            "name": "NRC Head Office (Reception car park- 2)",
+            "start_latitude": -35.725809,
+            "start_longitude": 174.317957,
+            "end_latitude": -35.725809,
+            "end_longitude": 174.317957,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 473,
+        "fields": {
+            "name": "NRC Head Office (Staff car park- 1)",
+            "start_latitude": -35.725377,
+            "start_longitude": 174.317513,
+            "end_latitude": -35.725377,
+            "end_longitude": 174.317513,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 474,
+        "fields": {
+            "name": "NRC Head Office (Staff car park- 2)",
+            "start_latitude": -35.72558,
+            "start_longitude": 174.31759,
+            "end_latitude": -35.72558,
+            "end_longitude": 174.31759,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 95,
+        "fields": {
+            "name": "Oakura Beach - Corbett Park",
+            "start_latitude": -39.11072,
+            "start_longitude": 173.95666,
+            "end_latitude": -39.10982,
+            "end_longitude": 173.95681,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 558,
+        "fields": {
+            "name": "Ohawe Beach",
+            "start_latitude": -39.586716,
+            "start_longitude": 174.194566,
+            "end_latitude": -39.586719,
+            "end_longitude": 174.193488,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 136,
+        "fields": {
+            "name": "Okahu Bay - South East End",
+            "start_latitude": -36.849806,
+            "start_longitude": 174.818028,
+            "end_latitude": -36.850417,
+            "end_longitude": 174.817167,
+            "width": 0.0,
+            "above_high_tide": 7,
+            "below_high_tide": 7
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 245,
+        "fields": {
+            "name": "Okahu Bay - West-end (city) side",
+            "start_latitude": -36.85169435,
+            "start_longitude": 174.81396345437952,
+            "end_latitude": -36.85138820208316,
+            "end_longitude": 174.8150976935167,
+            "width": 0.0,
+            "above_high_tide": 6,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 273,
+        "fields": {
+            "name": "Okains Bay Beach - River Mouth",
+            "start_latitude": -43.69241,
+            "start_longitude": 173.05894,
+            "end_latitude": -43.693,
+            "end_longitude": 173.05986,
+            "width": 0.0,
+            "above_high_tide": 1,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 103,
+        "fields": {
+            "name": "Okarito - Okarito",
+            "start_latitude": -43.22046,
+            "start_longitude": 170.16077,
+            "end_latitude": -43.22176,
+            "end_longitude": 170.15911,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 105,
+        "fields": {
+            "name": "Okarito - Three Mile Lagoon",
+            "start_latitude": -43.2452918,
+            "start_longitude": 170.120718,
+            "end_latitude": -43.246638,
+            "end_longitude": 170.120003,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 550,
+        "fields": {
+            "name": "Okarito Beach - Road End ",
+            "start_latitude": -43.22404323615434,
+            "start_longitude": 170.15657764875343,
+            "end_latitude": -43.22455578953328,
+            "end_longitude": 170.1556869039034,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 269,
+        "fields": {
+            "name": "Omamari beach ",
+            "start_latitude": -35.86732,
+            "start_longitude": 173.66501,
+            "end_latitude": -35.86667,
+            "end_longitude": 173.66422,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 401,
+        "fields": {
+            "name": "Omaui - Omaui Beach Reserve",
+            "start_latitude": -46.513068,
+            "start_longitude": 168.266057,
+            "end_latitude": -46.51287,
+            "end_longitude": 168.267832,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 28,
+        "fields": {
+            "name": "One Tree Point - Marsden",
+            "start_latitude": -35.82461,
+            "start_longitude": 174.45971,
+            "end_latitude": -35.82535,
+            "end_longitude": 174.46029,
+            "width": 0.0,
+            "above_high_tide": 3,
+            "below_high_tide": 2
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 97,
+        "fields": {
+            "name": "Onehunga - Taumanu Reserve",
+            "start_latitude": -36.92521,
+            "start_longitude": 174.77344,
+            "end_latitude": -36.92566,
+            "end_longitude": 174.7745,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 252,
+        "fields": {
+            "name": "Onerahi - Onerahi boat ramp",
+            "start_latitude": -35.775055736,
+            "start_longitude": 174.3593218179,
+            "end_latitude": -35.7745821168,
+            "end_longitude": 174.358352038,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 448,
+        "fields": {
+            "name": "Onerahi Community Centre Car Park, Whang\u0101rei",
+            "start_latitude": -35.75664,
+            "start_longitude": 174.36803,
+            "end_latitude": -35.75664,
+            "end_longitude": 174.36803,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 152,
+        "fields": {
+            "name": "Onetahuti Bay - Onetahuti",
+            "start_latitude": -40.8884562,
+            "start_longitude": 173.0466305,
+            "end_latitude": -40.887984,
+            "end_longitude": 173.0467149,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 116,
+        "fields": {
+            "name": "Opito Bay - Opito Bay Central",
+            "start_latitude": -36.716007,
+            "start_longitude": 175.796422,
+            "end_latitude": -36.71448,
+            "end_longitude": 175.79522,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 557,
+        "fields": {
+            "name": "Opunake Main Beach",
+            "start_latitude": -39.458777,
+            "start_longitude": 173.857916,
+            "end_latitude": -39.458178,
+            "end_longitude": 173.856749,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 544,
+        "fields": {
+            "name": "\u014cr\u0101kei School",
+            "start_latitude": -36.858183,
+            "start_longitude": 174.815377,
+            "end_latitude": -36.858183,
+            "end_longitude": 174.815377,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 177,
+        "fields": {
+            "name": "Oreti Beach - Christies track",
+            "start_latitude": -46.4715598,
+            "start_longitude": 168.2493234,
+            "end_latitude": -46.4699108,
+            "end_longitude": 168.2481416,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 193,
+        "fields": {
+            "name": "Oreti Beach - Dunns Rd right of entrance",
+            "start_latitude": -46.43752,
+            "start_longitude": 168.2306,
+            "end_latitude": -46.43671,
+            "end_longitude": 168.23,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 440,
+        "fields": {
+            "name": "Oreti Beach - Riverton",
+            "start_latitude": -46.3487,
+            "start_longitude": 168.03866,
+            "end_latitude": -46.34784,
+            "end_longitude": 168.04027,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 145,
+        "fields": {
+            "name": "Oriental Bay - Freyberg Pool",
+            "start_latitude": -41.29019294837753,
+            "start_longitude": 174.79005091208856,
+            "end_latitude": -41.29055384576035,
+            "end_longitude": 174.79085787395252,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 154,
+        "fields": {
+            "name": "Otago Peninsula - Hoppers inlet ",
+            "start_latitude": -45.87830958426546,
+            "start_longitude": 170.68140045755607,
+            "end_latitude": -45.87903658863704,
+            "end_longitude": 170.68092294053238,
+            "width": 0.0,
+            "above_high_tide": 4,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 153,
+        "fields": {
+            "name": "Otago Peninsula - Macandrew Bay Beach",
+            "start_latitude": -45.86927741993923,
+            "start_longitude": 170.5972695352236,
+            "end_latitude": -45.86963400325419,
+            "end_longitude": 170.5967866537819,
+            "width": 0.0,
+            "above_high_tide": 4,
+            "below_high_tide": 4
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 26,
+        "fields": {
+            "name": "Otago Peninsula - Pilots beach",
+            "start_latitude": -45.77709,
+            "start_longitude": 170.72806,
+            "end_latitude": -45.77779,
+            "end_longitude": 170.72856,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 125,
+        "fields": {
+            "name": "Otago Peninsula - Portobello North shore",
+            "start_latitude": -45.827548401472924,
+            "start_longitude": 170.6418786944548,
+            "end_latitude": -45.82675555725193,
+            "end_longitude": 170.64249258504307,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 124,
+        "fields": {
+            "name": "Otago Peninsula - Portobello South (Pipe cove)",
+            "start_latitude": -45.828442,
+            "start_longitude": 170.64128,
+            "end_latitude": -45.82847,
+            "end_longitude": 170.641391,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 244,
+        "fields": {
+            "name": "Otago Peninsula - Sandfly Bay",
+            "start_latitude": -45.898692,
+            "start_longitude": 170.652969,
+            "end_latitude": -45.898033,
+            "end_longitude": 170.652084,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 48,
+        "fields": {
+            "name": "Otaki Beach - Otaki river mouth",
+            "start_latitude": -40.75315,
+            "start_longitude": 175.10531,
+            "end_latitude": -40.75397,
+            "end_longitude": 175.10481,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 121,
+        "fields": {
+            "name": "Otaki Beach - Otaki Surf Club",
+            "start_latitude": -40.73689816136902,
+            "start_longitude": 175.11554207318935,
+            "end_latitude": -40.7376076944164,
+            "end_longitude": 175.11491038144982,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 518,
+        "fields": {
+            "name": "Paihia",
+            "start_latitude": -35.283655232882396,
+            "start_longitude": 174.09489506360825,
+            "end_latitude": -35.284033406300416,
+            "end_longitude": 174.09551905332876,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 517,
+        "fields": {
+            "name": "Paihia - Waitangi",
+            "start_latitude": -35.27642865340602,
+            "start_longitude": 174.08199409571074,
+            "end_latitude": -35.27689644055684,
+            "end_longitude": 174.08274118285033,
+            "width": 0.0,
+            "above_high_tide": 8,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 570,
+        "fields": {
+            "name": "Papakura Stream - Holmes Road Reserve",
+            "start_latitude": -37.04011723300939,
+            "start_longitude": 174.90098905418395,
+            "end_latitude": -37.040225851773755,
+            "end_longitude": 174.90081449226196,
+            "width": 3.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 555,
+        "fields": {
+            "name": "Papakura Stream - Te Napi Drive",
+            "start_latitude": -37.04098191861131,
+            "start_longitude": 174.90005696021933,
+            "end_latitude": -37.04051973523958,
+            "end_longitude": 174.90055063264418,
+            "width": 20.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 279,
+        "fields": {
+            "name": "Papakura Toyota",
+            "start_latitude": -37.05325037999994,
+            "start_longitude": 174.93288957564474,
+            "end_latitude": -37.05325037999994,
+            "end_longitude": 174.93288957564474,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 300,
+        "fields": {
+            "name": "Papakura Toyota T-9",
+            "start_latitude": -37.05320817840167,
+            "start_longitude": 174.93289827841681,
+            "end_latitude": -37.05320817840167,
+            "end_longitude": 174.93289827841681,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 552,
+        "fields": {
+            "name": "Papatoetoe Intermediate School",
+            "start_latitude": -36.961523,
+            "start_longitude": 174.85565,
+            "end_latitude": -36.961523,
+            "end_longitude": 174.85565,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 15,
+        "fields": {
+            "name": "Paraparaumu Beach - Kapiti Boating Club",
+            "start_latitude": -40.89119,
+            "start_longitude": 174.97907,
+            "end_latitude": -40.89027,
+            "end_longitude": 174.97928,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 16,
+        "fields": {
+            "name": "Paraparaumu Beach - Maclean Park",
+            "start_latitude": -40.89313,
+            "start_longitude": 174.97835,
+            "end_latitude": -40.89222,
+            "end_longitude": 174.97867,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 141,
+        "fields": {
+            "name": "Paraparaumu Beach - North Beach ",
+            "start_latitude": -40.8749825120062,
+            "start_longitude": 174.997380869626,
+            "end_latitude": -40.8747556405168,
+            "end_longitude": 174.998311679973,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 170,
+        "fields": {
+            "name": "Patea Beach - South Mole",
+            "start_latitude": -39.77317,
+            "start_longitude": 174.49015,
+            "end_latitude": -39.7739117,
+            "end_longitude": 174.490996666667,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 93,
+        "fields": {
+            "name": "Patea Beach - Waitangi ship wreck",
+            "start_latitude": -39.77354,
+            "start_longitude": 174.48755,
+            "end_latitude": -39.77292,
+            "end_longitude": 174.48671,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 92,
+        "fields": {
+            "name": "Pauatahanui Inlet - Motukaraka point (east side)",
+            "start_latitude": -41.09455,
+            "start_longitude": 174.90108,
+            "end_latitude": -41.09417,
+            "end_longitude": 174.90223,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 7
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 460,
+        "fields": {
+            "name": "Pearson Street, Mangawhai",
+            "start_latitude": -36.12112,
+            "start_longitude": 174.57728,
+            "end_latitude": -36.12112,
+            "end_longitude": 174.57728,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 231,
+        "fields": {
+            "name": "Piha - South End Surfers' Carpark",
+            "start_latitude": -36.957016,
+            "start_longitude": 174.4679034,
+            "end_latitude": -36.95803267816004,
+            "end_longitude": 174.4673335024555,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 51,
+        "fields": {
+            "name": "Pilot Bay - Mid Pilot Bay",
+            "start_latitude": -37.63719,
+            "start_longitude": 176.17974,
+            "end_latitude": -37.63639,
+            "end_longitude": 176.1791,
+            "width": 0.0,
+            "above_high_tide": 6,
+            "below_high_tide": 7
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 565,
+        "fields": {
+            "name": "Pink Beach - Lodge at Kauri Cliffs",
+            "start_latitude": 122.0,
+            "start_longitude": 295.0,
+            "end_latitude": 122.0,
+            "end_longitude": 295.0,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 501,
+        "fields": {
+            "name": "Plage de FALALEU",
+            "start_latitude": 10.0,
+            "start_longitude": 11.0,
+            "end_latitude": 4.0,
+            "end_longitude": 7.0,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 500,
+        "fields": {
+            "name": "Plage entre le Fale Fono de district et le dispensaire",
+            "start_latitude": -13.230964161845908,
+            "start_longitude": -176.18459987892047,
+            "end_latitude": -13.232964326512048,
+            "end_longitude": -176.18466435535072,
+            "width": 0.0,
+            "above_high_tide": 20,
+            "below_high_tide": 20
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 290,
+        "fields": {
+            "name": "Point Chevalier - Harbour View",
+            "start_latitude": -36.85645120839,
+            "start_longitude": 174.701044764,
+            "end_latitude": -36.85566473652,
+            "end_longitude": 174.70155408751,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 521,
+        "fields": {
+            "name": "Point England Beach Reserve - Northern End",
+            "start_latitude": -36.8816877,
+            "start_longitude": 174.8738987,
+            "end_latitude": -36.8825037,
+            "end_longitude": 174.8732964,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 484,
+        "fields": {
+            "name": "Popua Beach",
+            "start_latitude": -21.140859,
+            "start_longitude": -175.169688,
+            "end_latitude": -21.140859,
+            "end_longitude": -175.170836,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 135,
+        "fields": {
+            "name": "Porirua Harbour - Paremata Bridge",
+            "start_latitude": -41.1046708,
+            "start_longitude": 174.8674728,
+            "end_latitude": -41.1045,
+            "end_longitude": 174.86777,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 4
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 122,
+        "fields": {
+            "name": "Porirua Harbour - Porirua Stream Estuary",
+            "start_latitude": -41.1305700721659,
+            "start_longitude": 174.841583044728,
+            "end_latitude": -41.1306901112934,
+            "end_longitude": 174.842024591173,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 45,
+        "fields": {
+            "name": "Porirua Harbour - West end",
+            "start_latitude": -41.12464,
+            "start_longitude": 174.83736,
+            "end_latitude": -41.12478,
+            "end_longitude": 174.83857,
+            "width": 0.0,
+            "above_high_tide": 3,
+            "below_high_tide": 3
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 373,
+        "fields": {
+            "name": "Port Molyneux - South end",
+            "start_latitude": -46.37172390852758,
+            "start_longitude": 169.78134765976395,
+            "end_latitude": -46.37084049817071,
+            "end_longitude": 169.7811371447209,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 275,
+        "fields": {
+            "name": "Port Taranaki - Breakwater Beach ",
+            "start_latitude": -39.0582988,
+            "start_longitude": 174.0503928,
+            "end_latitude": -39.0577803,
+            "end_longitude": 174.050247,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 297,
+        "fields": {
+            "name": "Puhinui Reserve",
+            "start_latitude": -37.00079,
+            "start_longitude": 174.882769,
+            "end_latitude": -37.001203,
+            "end_longitude": 174.882878,
+            "width": 5.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 375,
+        "fields": {
+            "name": "Pukeahu",
+            "start_latitude": -41.2894169293156,
+            "start_longitude": 174.7535105479799,
+            "end_latitude": -41.2893819,
+            "end_longitude": 174.7535539,
+            "width": 2.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 50,
+        "fields": {
+            "name": "Pukerua Bay - Pukerua bay pa site",
+            "start_latitude": -41.0281,
+            "start_longitude": 174.88611,
+            "end_latitude": -41.02897,
+            "end_longitude": 174.8857,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 551,
+        "fields": {
+            "name": "Punakaiki - McMillians Road",
+            "start_latitude": -42.131948769131796,
+            "start_longitude": 171.32773663864594,
+            "end_latitude": -42.1328777354603,
+            "end_longitude": 171.3277285920189,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 156,
+        "fields": {
+            "name": "Purakaunui - Purakaunui Beach",
+            "start_latitude": -45.7362463408149,
+            "start_longitude": 170.616325077774,
+            "end_latitude": -45.7428492504311,
+            "end_longitude": 170.626568840476,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 442,
+        "fields": {
+            "name": "Purau Bay",
+            "start_latitude": -43.638183006112946,
+            "start_longitude": 172.7502804914929,
+            "end_latitude": -43.63804571645128,
+            "end_longitude": 172.75131327583154,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 374,
+        "fields": {
+            "name": "Quarantine Island - Big Bay North ",
+            "start_latitude": -45.82851469599767,
+            "start_longitude": 170.6352585891098,
+            "end_latitude": -45.828108380852626,
+            "end_longitude": 170.63450847541765,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 171,
+        "fields": {
+            "name": "Rabbit Island - Rabbit island domain",
+            "start_latitude": -41.2642601,
+            "start_longitude": 173.150486,
+            "end_latitude": -41.2646524,
+            "end_longitude": 173.1517403,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 181,
+        "fields": {
+            "name": "Rabbit Island - Western end of domain",
+            "start_latitude": -41.26203512,
+            "start_longitude": 173.14369391,
+            "end_latitude": -41.26163921,
+            "end_longitude": 173.14252904,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 197,
+        "fields": {
+            "name": "Rakiura Stewart Island - Deep Bay",
+            "start_latitude": -46.905877498614224,
+            "start_longitude": 168.13764912345368,
+            "end_latitude": -46.906638265088425,
+            "end_longitude": 168.13804173713402,
+            "width": 0.0,
+            "above_high_tide": 2,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 196,
+        "fields": {
+            "name": "Rakiura Stewart Island - Ulva island",
+            "start_latitude": -46.927176984070734,
+            "start_longitude": 168.13215491377574,
+            "end_latitude": -46.92804874391009,
+            "end_longitude": 168.13233143665653,
+            "width": 0.0,
+            "above_high_tide": 1,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 322,
+        "fields": {
+            "name": "Rangitoto Island - South Side",
+            "start_latitude": -36.807599,
+            "start_longitude": 174.867558,
+            "end_latitude": -36.808176,
+            "end_longitude": 174.866842,
+            "width": 0.0,
+            "above_high_tide": 3,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 277,
+        "fields": {
+            "name": "Rangituhi Awa - Camp Elsdon Carpark",
+            "start_latitude": -41.1365267,
+            "start_longitude": 174.8275717,
+            "end_latitude": -41.13645838881879,
+            "end_longitude": 174.82776517965883,
+            "width": 4.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 221,
+        "fields": {
+            "name": "Rarangi Beach - Monkey Bay Carpark",
+            "start_latitude": -41.39202750757466,
+            "start_longitude": 174.0492064041775,
+            "end_latitude": -41.39282940425108,
+            "end_longitude": 174.04882770979222,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 476,
+        "fields": {
+            "name": "Raumanga Valley Road, Whang\u0101rei",
+            "start_latitude": -35.74017,
+            "start_longitude": 174.30395,
+            "end_latitude": -35.74017,
+            "end_longitude": 174.30395,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 466,
+        "fields": {
+            "name": "Raumati Crescent, Whang\u0101rei",
+            "start_latitude": -35.75922,
+            "start_longitude": 174.36425,
+            "end_latitude": -35.75922,
+            "end_longitude": 174.36425,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 55,
+        "fields": {
+            "name": "Riversdale Beach - Riversdale surf club",
+            "start_latitude": -41.08714,
+            "start_longitude": 176.07601,
+            "end_latitude": -41.08808,
+            "end_longitude": 176.07527,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 179,
+        "fields": {
+            "name": "Riverton Beach - Princess Street End",
+            "start_latitude": -46.355675314596255,
+            "start_longitude": 168.0261624792293,
+            "end_latitude": -46.35499617089178,
+            "end_longitude": 168.02715548329803,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 519,
+        "fields": {
+            "name": "Rotoroa Island - Base Camp 1",
+            "start_latitude": -36.816381175196646,
+            "start_longitude": 175.196643,
+            "end_latitude": -36.817067,
+            "end_longitude": 175.197375,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 251,
+        "fields": {
+            "name": "Ruakaka - Motorcamp",
+            "start_latitude": -35.90359905077466,
+            "start_longitude": 174.45718299544572,
+            "end_latitude": -35.903715079499776,
+            "end_longitude": 174.45752247600663,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 248,
+        "fields": {
+            "name": "Ruakaka - Surfclub ",
+            "start_latitude": -35.90849,
+            "start_longitude": 174.461324,
+            "end_latitude": -35.908056,
+            "end_longitude": 174.46146,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 559,
+        "fields": {
+            "name": "Ruak\u0101k\u0101 racecourse beach",
+            "start_latitude": -35.886908864768415,
+            "start_longitude": 174.46600095175725,
+            "end_latitude": -35.887666851843406,
+            "end_longitude": 174.46586092570246,
+            "width": 0.0,
+            "above_high_tide": 9,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 162,
+        "fields": {
+            "name": "Ruapuke - Northern Creek Mouth",
+            "start_latitude": -37.8944741524884,
+            "start_longitude": 174.766565397495,
+            "end_latitude": -37.89549429139,
+            "end_longitude": 174.766786198381,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 131,
+        "fields": {
+            "name": "Ruapuke - Ruapuke - North",
+            "start_latitude": -37.891,
+            "start_longitude": 174.765,
+            "end_latitude": -37.892,
+            "end_longitude": 174.765,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 130,
+        "fields": {
+            "name": "Ruby Bay - Mapua",
+            "start_latitude": -41.2435502652463,
+            "start_longitude": 173.09900871494142,
+            "end_latitude": -41.24304366301861,
+            "end_longitude": 173.09806927123395,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 6
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 58,
+        "fields": {
+            "name": "Ruby Bay - Pine Hill Reserve",
+            "start_latitude": -41.22913,
+            "start_longitude": 173.08438,
+            "end_latitude": -41.22996,
+            "end_longitude": 173.08486,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 256,
+        "fields": {
+            "name": "Sandy Bay Beach - Inlet",
+            "start_latitude": -35.556505,
+            "start_longitude": 174.474108,
+            "end_latitude": -35.55686,
+            "end_longitude": 174.47503,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 230,
+        "fields": {
+            "name": "Sandy Point - Noki Kaik Beach",
+            "start_latitude": -46.49516707290569,
+            "start_longitude": 168.30077600681065,
+            "end_latitude": -46.49534363,
+            "end_longitude": 168.2995981401,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 452,
+        "fields": {
+            "name": "Semenoff Stadium, Whang\u0101rei ",
+            "start_latitude": -35.73555,
+            "start_longitude": 174.33037,
+            "end_latitude": -35.73555,
+            "end_longitude": 174.33037,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 494,
+        "fields": {
+            "name": "Solosolo Seawall",
+            "start_latitude": -13.875479,
+            "start_longitude": -171.649486,
+            "end_latitude": -13.876001,
+            "end_longitude": -171.647807,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 123,
+        "fields": {
+            "name": "St Heliers - St Heliers playground",
+            "start_latitude": -36.8491,
+            "start_longitude": 174.85944,
+            "end_latitude": -36.84955,
+            "end_longitude": 174.85848,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 148,
+        "fields": {
+            "name": "St Kilda - Ocean Beach Domain",
+            "start_latitude": -45.908497427632945,
+            "start_longitude": 170.51279017717624,
+            "end_latitude": -45.9084383,
+            "end_longitude": 170.51405333333332,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 287,
+        "fields": {
+            "name": "Stanmore Bay - East",
+            "start_latitude": -36.624437,
+            "start_longitude": 174.741756,
+            "end_latitude": -36.624301,
+            "end_longitude": 174.742717,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 216,
+        "fields": {
+            "name": "Sumner Beach - Cave Rock End",
+            "start_latitude": -43.56633359570962,
+            "start_longitude": 172.75936576620617,
+            "end_latitude": -43.56591580786206,
+            "end_longitude": 172.75842889609194,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 545,
+        "fields": {
+            "name": "Sunnyhills School",
+            "start_latitude": -36.902075,
+            "start_longitude": 174.883413,
+            "end_latitude": -36.902075,
+            "end_longitude": 174.883413,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 572,
+        "fields": {
+            "name": "Sunset Point",
+            "start_latitude": -42.720074,
+            "start_longitude": 170.95446121,
+            "end_latitude": -42.7195282,
+            "end_longitude": 170.955531,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 63,
+        "fields": {
+            "name": "Tahunanui Beach - Tahunanui Beach Rocks Road ",
+            "start_latitude": -41.27906,
+            "start_longitude": 173.25154,
+            "end_latitude": -41.27894,
+            "end_longitude": 173.25035,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 202,
+        "fields": {
+            "name": "Tahunanui Beach - The Beach Reserve",
+            "start_latitude": -41.27859768836184,
+            "start_longitude": 173.24354568638012,
+            "end_latitude": -41.278538791276496,
+            "end_longitude": 173.242347487215,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 265,
+        "fields": {
+            "name": "Taipa Point - Sailing club  ",
+            "start_latitude": -34.99299751597921,
+            "start_longitude": 173.47044931740822,
+            "end_latitude": -34.993245871770185,
+            "end_longitude": 173.469296470446,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 527,
+        "fields": {
+            "name": "Takapuna Beach - Playground ",
+            "start_latitude": -36.787772,
+            "start_longitude": 174.775399,
+            "end_latitude": -36.786924,
+            "end_longitude": 174.775023,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 137,
+        "fields": {
+            "name": "Tapuae - Tapuae river mouth",
+            "start_latitude": -39.09876,
+            "start_longitude": 173.97803,
+            "end_latitude": -39.0995509224377,
+            "end_longitude": 173.977776495902,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 502,
+        "fields": {
+            "name": "Tapuae Marine Reserve - Hermit Hill",
+            "start_latitude": -39.098562,
+            "start_longitude": 173.97822,
+            "end_latitude": -39.098247,
+            "end_longitude": 173.979216,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 102,
+        "fields": {
+            "name": "Tarakena Bay - East beach ",
+            "start_latitude": -41.3423,
+            "start_longitude": 174.81843,
+            "end_latitude": -41.34224,
+            "end_longitude": 174.81958,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 323,
+        "fields": {
+            "name": "Taup\u014d Bay - Boat Ramp",
+            "start_latitude": -34.990626652757626,
+            "start_longitude": 173.7095771359035,
+            "end_latitude": -34.991504,
+            "end_longitude": 173.7096117,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 237,
+        "fields": {
+            "name": "Tauranga Moana - St Mary\u2019s Catholic School",
+            "start_latitude": -37.70689065539172,
+            "start_longitude": 176.16708773645533,
+            "end_latitude": -37.70595601716648,
+            "end_longitude": 176.1667804008514,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 525,
+        "fields": {
+            "name": "Tawharanui - Anchor Bay",
+            "start_latitude": -36.3697022,
+            "start_longitude": 174.8388871,
+            "end_latitude": -36.369522,
+            "end_longitude": 174.8378538,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 239,
+        "fields": {
+            "name": "Te Akau",
+            "start_latitude": -37.7976905622116,
+            "start_longitude": 174.83990612258887,
+            "end_latitude": -37.79038188089041,
+            "end_longitude": 174.83766518573367,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 529,
+        "fields": {
+            "name": "Te Angiangi Marine Reserve - Blackhead Beach",
+            "start_latitude": -40.1617602,
+            "start_longitude": 176.8376862,
+            "end_latitude": -40.1623058,
+            "end_longitude": 176.8367563,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 547,
+        "fields": {
+            "name": "Te Atat\u016b Intermediate School",
+            "start_latitude": -36.840509,
+            "start_longitude": 174.653273,
+            "end_latitude": -36.840509,
+            "end_longitude": 174.653273,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 206,
+        "fields": {
+            "name": "Te Atatu Peninsula - Harbour View Beach - Harbour View Reserve",
+            "start_latitude": -36.843652335,
+            "start_longitude": 174.659760659,
+            "end_latitude": -36.8444481,
+            "end_longitude": 174.659941746,
+            "width": 0.0,
+            "above_high_tide": 2,
+            "below_high_tide": 6
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 56,
+        "fields": {
+            "name": "Te Atatu Peninsula - Spinnaker Reserve",
+            "start_latitude": -36.82809,
+            "start_longitude": 174.6548,
+            "end_latitude": -36.8272,
+            "end_longitude": 174.65466,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 470,
+        "fields": {
+            "name": "Te Kahu Steet, Haruru",
+            "start_latitude": -35.281541,
+            "start_longitude": 174.047675,
+            "end_latitude": -35.281541,
+            "end_longitude": 174.047675,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 537,
+        "fields": {
+            "name": "Te Karo - Sailors Grave",
+            "start_latitude": -36.9622975,
+            "start_longitude": 175.8426524,
+            "end_latitude": -36.9631459,
+            "end_longitude": 175.84312,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 250,
+        "fields": {
+            "name": "Te Kawau Stream - Highbury Shops",
+            "start_latitude": -40.36061,
+            "start_longitude": 175.58714,
+            "end_latitude": -40.36054,
+            "end_longitude": 175.58722,
+            "width": 10.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 296,
+        "fields": {
+            "name": "Te Matauranga",
+            "start_latitude": -37.033576,
+            "start_longitude": 174.856444,
+            "end_latitude": -37.032937,
+            "end_longitude": 174.855602,
+            "width": 0.0,
+            "above_high_tide": 3,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 165,
+        "fields": {
+            "name": "Te Puru - North Te Puru",
+            "start_latitude": -37.0384383,
+            "start_longitude": 175.520311,
+            "end_latitude": -37.0393153,
+            "end_longitude": 175.5204925,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 1
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 439,
+        "fields": {
+            "name": "Te Waewae Bay- McCrackens Rest",
+            "start_latitude": -46.23004,
+            "start_longitude": 167.67067,
+            "end_latitude": -46.22926,
+            "end_longitude": 167.669385,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 128,
+        "fields": {
+            "name": "The Haven - Kinzett Terrace Carpark",
+            "start_latitude": -41.2646231,
+            "start_longitude": 173.2842666,
+            "end_latitude": -41.26469,
+            "end_longitude": 173.2845,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 132,
+        "fields": {
+            "name": "The Old Boat Ramp - Old Boat Ramp",
+            "start_latitude": -41.254798656127235,
+            "start_longitude": 173.28130713962548,
+            "end_latitude": -41.25469669019498,
+            "end_longitude": 173.28110162184888,
+            "width": 0.0,
+            "above_high_tide": 4,
+            "below_high_tide": 4
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 238,
+        "fields": {
+            "name": "Titahi Bay - South End",
+            "start_latitude": -41.1079248,
+            "start_longitude": 174.83294997,
+            "end_latitude": -41.1075009,
+            "end_longitude": 174.833998,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 242,
+        "fields": {
+            "name": "Titirangi - Titirangi Beach",
+            "start_latitude": -36.951137417961796,
+            "start_longitude": 174.66055626997226,
+            "end_latitude": -36.95123184010102,
+            "end_longitude": 174.65953116321438,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 8
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 205,
+        "fields": {
+            "name": "Toetoes Bay - Waituna Lagoon Road",
+            "start_latitude": -46.57072,
+            "start_longitude": 168.67286,
+            "end_latitude": -46.57083942487346,
+            "end_longitude": 168.67166157767667,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 444,
+        "fields": {
+            "name": "Toetoes Estuary - Boat Harbour Road",
+            "start_latitude": -46.57817,
+            "start_longitude": 168.80126,
+            "end_latitude": -46.57894,
+            "end_longitude": 168.80187,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 41,
+        "fields": {
+            "name": "Torbay - Winstones Cove",
+            "start_latitude": -36.69962,
+            "start_longitude": 174.75587,
+            "end_latitude": -36.69875,
+            "end_longitude": 174.75613,
+            "width": 0.0,
+            "above_high_tide": 2,
+            "below_high_tide": 2
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 462,
+        "fields": {
+            "name": "T\u014dtara Street, Dargaville",
+            "start_latitude": -35.94083,
+            "start_longitude": 173.87131,
+            "end_latitude": -35.94083,
+            "end_longitude": 173.87131,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 450,
+        "fields": {
+            "name": "Town Basin Marina Village, Whang\u0101rei ",
+            "start_latitude": -35.72438,
+            "start_longitude": 174.32583,
+            "end_latitude": -35.72438,
+            "end_longitude": 174.32583,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 479,
+        "fields": {
+            "name": "Town Basin Playground, Whang\u0101rei ",
+            "start_latitude": -35.725325,
+            "start_longitude": 174.327302,
+            "end_latitude": -35.725325,
+            "end_longitude": 174.327302,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 282,
+        "fields": {
+            "name": "Toyota Henderson",
+            "start_latitude": -36.854575,
+            "start_longitude": 174.629395,
+            "end_latitude": -36.854575,
+            "end_longitude": 174.629395,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 280,
+        "fields": {
+            "name": "Toyota North Shore T-1",
+            "start_latitude": -36.767644,
+            "start_longitude": 174.737316,
+            "end_latitude": -36.767644,
+            "end_longitude": 174.737316,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 281,
+        "fields": {
+            "name": "Toyota North Shore T-2",
+            "start_latitude": -36.767807,
+            "start_longitude": 174.73724,
+            "end_latitude": -36.767807,
+            "end_longitude": 174.73724,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 198,
+        "fields": {
+            "name": "Tucks Bay - Tucks Bay",
+            "start_latitude": -36.74233,
+            "start_longitude": 175.47696,
+            "end_latitude": -36.7436,
+            "end_longitude": 175.47689,
+            "width": 0.0,
+            "above_high_tide": 2,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 262,
+        "fields": {
+            "name": "Tutukaka Harbour - Church Bay",
+            "start_latitude": -35.61747065639,
+            "start_longitude": 174.52977917832,
+            "end_latitude": -35.616662474,
+            "end_longitude": 174.52943734203,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 261,
+        "fields": {
+            "name": "Tutukaka Harbour - Pacific Bay Beach,",
+            "start_latitude": -35.619821977,
+            "start_longitude": 174.535616977,
+            "end_latitude": -35.61970136663,
+            "end_longitude": 174.5348089334,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 168,
+        "fields": {
+            "name": "Uawa - SLS Tower",
+            "start_latitude": -38.3668689,
+            "start_longitude": 178.305933,
+            "end_latitude": -38.365963,
+            "end_longitude": 178.305922,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 482,
+        "fields": {
+            "name": "Vaiala sandbank",
+            "start_latitude": -13.8233381,
+            "start_longitude": -171.7548851,
+            "end_latitude": -13.8231774,
+            "end_longitude": -171.754853,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 546,
+        "fields": {
+            "name": "Verran School",
+            "start_latitude": -36.802167,
+            "start_longitude": 174.713449,
+            "end_latitude": -36.802167,
+            "end_longitude": 174.713449,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 459,
+        "fields": {
+            "name": "Village Shops, Moir Street, Mangawhai",
+            "start_latitude": -36.12603,
+            "start_longitude": 174.57518,
+            "end_latitude": -36.12603,
+            "end_longitude": 174.57518,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 447,
+        "fields": {
+            "name": "Vine Street Car Park, Whang\u0101rei",
+            "start_latitude": -35.72714,
+            "start_longitude": 174.32013,
+            "end_latitude": -35.72714,
+            "end_longitude": 174.32013,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 54,
+        "fields": {
+            "name": "Waiheke - Oneroa Beach BBQs",
+            "start_latitude": -36.78103,
+            "start_longitude": 175.01031,
+            "end_latitude": -36.78024,
+            "end_longitude": 175.00974,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 249,
+        "fields": {
+            "name": "Waiheke - Whakanewha Regional Park",
+            "start_latitude": -36.82554178,
+            "start_longitude": 175.0719016,
+            "end_latitude": -36.82637819558085,
+            "end_longitude": 175.07192079925446,
+            "width": 0.0,
+            "above_high_tide": 3,
+            "below_high_tide": 4
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 301,
+        "fields": {
+            "name": "Waiheke -Surfdale Beach Playground end",
+            "start_latitude": -36.7933465,
+            "start_longitude": 175.022382,
+            "end_latitude": -36.793882,
+            "end_longitude": 175.0232871,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 335,
+        "fields": {
+            "name": "Waiheke Trial LT1",
+            "start_latitude": -36.781578632629056,
+            "start_longitude": 175.00866297593097,
+            "end_latitude": -36.781578632629056,
+            "end_longitude": 175.00866297593097,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 343,
+        "fields": {
+            "name": "Waiheke Trial LT10",
+            "start_latitude": -36.78326862914715,
+            "start_longitude": 175.01069769557245,
+            "end_latitude": -36.78326862914715,
+            "end_longitude": 175.01069769557245,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 344,
+        "fields": {
+            "name": "Waiheke Trial LT11",
+            "start_latitude": -36.78504835382258,
+            "start_longitude": 175.0184886366171,
+            "end_latitude": -36.78504835382258,
+            "end_longitude": 175.0184886366171,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 345,
+        "fields": {
+            "name": "Waiheke Trial LT12",
+            "start_latitude": -36.785219584985214,
+            "start_longitude": 175.0186272940008,
+            "end_latitude": -36.785219584985214,
+            "end_longitude": 175.0186272940008,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 346,
+        "fields": {
+            "name": "Waiheke Trial LT14",
+            "start_latitude": -36.793698793733164,
+            "start_longitude": 175.026176403695,
+            "end_latitude": -36.793698793733164,
+            "end_longitude": 175.026176403695,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 347,
+        "fields": {
+            "name": "Waiheke Trial LT15",
+            "start_latitude": -36.7936973258043,
+            "start_longitude": 175.02345296245443,
+            "end_latitude": -36.7936973258043,
+            "end_longitude": 175.02345296245443,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 348,
+        "fields": {
+            "name": "Waiheke Trial LT16",
+            "start_latitude": -36.79918434103271,
+            "start_longitude": 175.0288089054115,
+            "end_latitude": -36.79918434103271,
+            "end_longitude": 175.0288089054115,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 349,
+        "fields": {
+            "name": "Waiheke Trial LT17",
+            "start_latitude": -36.79957446703334,
+            "start_longitude": 175.02867716220243,
+            "end_latitude": -36.79957446703334,
+            "end_longitude": 175.02867716220243,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 350,
+        "fields": {
+            "name": "Waiheke Trial LT18",
+            "start_latitude": -36.79982380705448,
+            "start_longitude": 175.02871718489467,
+            "end_latitude": -36.79982380705448,
+            "end_longitude": 175.02871718489467,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 351,
+        "fields": {
+            "name": "Waiheke Trial LT19",
+            "start_latitude": -36.80017826354962,
+            "start_longitude": 175.0285120919924,
+            "end_latitude": -36.80017826354962,
+            "end_longitude": 175.0285120919924,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 336,
+        "fields": {
+            "name": "Waiheke Trial LT2",
+            "start_latitude": -36.7815730024101,
+            "start_longitude": 175.00873565296365,
+            "end_latitude": -36.7815730024101,
+            "end_longitude": 175.00873565296365,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 352,
+        "fields": {
+            "name": "Waiheke Trial LT20",
+            "start_latitude": -36.780623613183955,
+            "start_longitude": 175.04603112586628,
+            "end_latitude": -36.780623613183955,
+            "end_longitude": 175.04603112586628,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 353,
+        "fields": {
+            "name": "Waiheke Trial LT21",
+            "start_latitude": -36.78080498024977,
+            "start_longitude": 175.04595374762195,
+            "end_latitude": -36.78080498024977,
+            "end_longitude": 175.04595374762195,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 389,
+        "fields": {
+            "name": "Waiheke Trial LT22",
+            "start_latitude": -36.79566402870787,
+            "start_longitude": 175.04474169356027,
+            "end_latitude": -36.79566402870787,
+            "end_longitude": 175.04474169356027,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 354,
+        "fields": {
+            "name": "Waiheke Trial LT23",
+            "start_latitude": -36.79576104640465,
+            "start_longitude": 175.04525858403014,
+            "end_latitude": -36.79576104640465,
+            "end_longitude": 175.04525858403014,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 355,
+        "fields": {
+            "name": "Waiheke Trial LT24",
+            "start_latitude": -36.795635790806216,
+            "start_longitude": 175.04544078722168,
+            "end_latitude": -36.795635790806216,
+            "end_longitude": 175.04544078722168,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 356,
+        "fields": {
+            "name": "Waiheke Trial LT25",
+            "start_latitude": -36.795791479097254,
+            "start_longitude": 175.04558701152138,
+            "end_latitude": -36.795791479097254,
+            "end_longitude": 175.04558701152138,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 357,
+        "fields": {
+            "name": "Waiheke Trial LT26",
+            "start_latitude": -36.795774021009855,
+            "start_longitude": 175.04647731892038,
+            "end_latitude": -36.795774021009855,
+            "end_longitude": 175.04647731892038,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 358,
+        "fields": {
+            "name": "Waiheke Trial LT27",
+            "start_latitude": -36.7957712707671,
+            "start_longitude": 175.04645431532455,
+            "end_latitude": -36.7957712707671,
+            "end_longitude": 175.04645431532455,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 359,
+        "fields": {
+            "name": "Waiheke Trial LT28",
+            "start_latitude": -36.79585988352995,
+            "start_longitude": 175.04652364023514,
+            "end_latitude": -36.79585988352995,
+            "end_longitude": 175.04652364023514,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 360,
+        "fields": {
+            "name": "Waiheke Trial LT29",
+            "start_latitude": -36.79004793576643,
+            "start_longitude": 175.08134312767334,
+            "end_latitude": -36.79004793576643,
+            "end_longitude": 175.08134312767334,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 368,
+        "fields": {
+            "name": "Waiheke Trial LT3",
+            "start_latitude": -36.781937544478325,
+            "start_longitude": 175.00870939447407,
+            "end_latitude": -36.781937544478325,
+            "end_longitude": 175.00870939447407,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 361,
+        "fields": {
+            "name": "Waiheke Trial LT30",
+            "start_latitude": -36.788114488914275,
+            "start_longitude": 175.08131125436813,
+            "end_latitude": -36.788114488914275,
+            "end_longitude": 175.08131125436813,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 362,
+        "fields": {
+            "name": "Waiheke Trial LT31",
+            "start_latitude": -36.78806632805223,
+            "start_longitude": 175.08307287442872,
+            "end_latitude": -36.78806632805223,
+            "end_longitude": 175.08307287442872,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 334,
+        "fields": {
+            "name": "Waiheke Trial LT32",
+            "start_latitude": -36.7881862386895,
+            "start_longitude": 175.08307478866217,
+            "end_latitude": -36.7881862386895,
+            "end_longitude": 175.08307478866217,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 364,
+        "fields": {
+            "name": "Waiheke Trial LT33",
+            "start_latitude": -36.78812894090329,
+            "start_longitude": 175.08317925817613,
+            "end_latitude": -36.78812894090329,
+            "end_longitude": 175.08317925817613,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 365,
+        "fields": {
+            "name": "Waiheke Trial LT34",
+            "start_latitude": -36.78807318887359,
+            "start_longitude": 175.0832995553717,
+            "end_latitude": -36.78807318887359,
+            "end_longitude": 175.0832995553717,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 331,
+        "fields": {
+            "name": "Waiheke Trial LT35",
+            "start_latitude": -36.78002527573072,
+            "start_longitude": 174.99199027564526,
+            "end_latitude": -36.78002527573072,
+            "end_longitude": 174.99199027564526,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 337,
+        "fields": {
+            "name": "Waiheke Trial LT4",
+            "start_latitude": -36.78207397897046,
+            "start_longitude": 175.00976294040936,
+            "end_latitude": -36.78207397897046,
+            "end_longitude": 175.00976294040936,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 338,
+        "fields": {
+            "name": "Waiheke Trial LT5",
+            "start_latitude": -36.782090146317614,
+            "start_longitude": 175.0097565404522,
+            "end_latitude": -36.782090146317614,
+            "end_longitude": 175.0097565404522,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 371,
+        "fields": {
+            "name": "Waiheke Trial LT6",
+            "start_latitude": -36.782509537662094,
+            "start_longitude": 175.01020612109937,
+            "end_latitude": -36.782509537662094,
+            "end_longitude": 175.01020612109937,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 372,
+        "fields": {
+            "name": "Waiheke Trial LT7",
+            "start_latitude": -36.78253676266106,
+            "start_longitude": 175.01025428787426,
+            "end_latitude": -36.78253676266106,
+            "end_longitude": 175.01025428787426,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 341,
+        "fields": {
+            "name": "Waiheke Trial LT8",
+            "start_latitude": -36.78310118106227,
+            "start_longitude": 175.0102431944056,
+            "end_latitude": -36.78310118106227,
+            "end_longitude": 175.0102431944056,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 342,
+        "fields": {
+            "name": "Waiheke Trial LT9",
+            "start_latitude": -36.78306499000739,
+            "start_longitude": 175.01038928595588,
+            "end_latitude": -36.78306499000739,
+            "end_longitude": 175.01038928595588,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 568,
+        "fields": {
+            "name": "Waihi Beach",
+            "start_latitude": -39.605883,
+            "start_longitude": 174.240727,
+            "end_latitude": -39.606542,
+            "end_longitude": 174.241615,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 228,
+        "fields": {
+            "name": "Waihi Beach -  Surf Club",
+            "start_latitude": -37.39786603491511,
+            "start_longitude": 175.93870178812736,
+            "end_latitude": -37.39701849877592,
+            "end_longitude": 175.93856927023822,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 62,
+        "fields": {
+            "name": "Waikanae Beach - Big River",
+            "start_latitude": -38.71101,
+            "start_longitude": 177.94445,
+            "end_latitude": -38.71171,
+            "end_longitude": 177.94383,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 17,
+        "fields": {
+            "name": "Waikanae Beach - SLS Club",
+            "start_latitude": -38.671167,
+            "start_longitude": 178.017282,
+            "end_latitude": -38.671484,
+            "end_longitude": 178.018321,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 536,
+        "fields": {
+            "name": "Waikanae Beach North",
+            "start_latitude": -40.87069095,
+            "start_longitude": 175.006242820533,
+            "end_latitude": -40.87013407243125,
+            "end_longitude": 175.007177398,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 44,
+        "fields": {
+            "name": "Waikanae Estuary - Dotterel island",
+            "start_latitude": -40.87509,
+            "start_longitude": 174.99949,
+            "end_latitude": -40.87597,
+            "end_longitude": 174.99992,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 562,
+        "fields": {
+            "name": "Waikanae Estuary - Takahe Drive ",
+            "start_latitude": -40.8760561,
+            "start_longitude": 175.0037012,
+            "end_latitude": -40.8752994,
+            "end_longitude": 175.0043096,
+            "width": 0.0,
+            "above_high_tide": 2,
+            "below_high_tide": 2
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 213,
+        "fields": {
+            "name": "Waikouaiti - Matanaka Beach end",
+            "start_latitude": -45.6111587,
+            "start_longitude": 170.6895954,
+            "end_latitude": -45.61097,
+            "end_longitude": 170.68844,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 215,
+        "fields": {
+            "name": "Waimairi Beach  - stormwater pipe",
+            "start_latitude": -43.4804186,
+            "start_longitude": 172.7227049,
+            "end_latitude": -43.4795738154607,
+            "end_longitude": 172.722481238195,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 511,
+        "fields": {
+            "name": "Waimea inlet - Fresh water creek",
+            "start_latitude": -41.33078613788033,
+            "start_longitude": 173.2012087573979,
+            "end_latitude": -41.33074950896327,
+            "end_longitude": 173.2023105585698,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 127,
+        "fields": {
+            "name": "Waimea Inlet - Point Road, Monaco",
+            "start_latitude": -41.30392804760392,
+            "start_longitude": 173.22070150258577,
+            "end_latitude": -41.30454502512146,
+            "end_longitude": 173.22126005554048,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 534,
+        "fields": {
+            "name": "Waimea Inlet - Poor Man Stream Mouth",
+            "start_latitude": -41.302561568087306,
+            "start_longitude": 173.22324911722342,
+            "end_latitude": -41.30231037861276,
+            "end_longitude": 173.2247839176575,
+            "width": 0.0,
+            "above_high_tide": 6,
+            "below_high_tide": 3
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 52,
+        "fields": {
+            "name": "Wainamu Beach - Wainamu",
+            "start_latitude": -37.80386,
+            "start_longitude": 174.84412,
+            "end_latitude": -37.80384,
+            "end_longitude": 174.84531,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 486,
+        "fields": {
+            "name": "Wainui Beach - SLSC",
+            "start_latitude": -38.678384126340354,
+            "start_longitude": 178.08144107787516,
+            "end_latitude": -38.677892805378605,
+            "end_longitude": 178.08212295478234,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 235,
+        "fields": {
+            "name": "Wainuiomata Coast - Baring Head",
+            "start_latitude": -41.40146,
+            "start_longitude": 174.86653,
+            "end_latitude": -41.402338,
+            "end_longitude": 174.866802,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 264,
+        "fields": {
+            "name": "Waipapakauri - 90 Mile Beach",
+            "start_latitude": -35.03919081,
+            "start_longitude": 173.16810041,
+            "end_latitude": -35.0383256,
+            "end_longitude": 173.16776973,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 257,
+        "fields": {
+            "name": "Waip\u016b Beach -  Surfclub",
+            "start_latitude": -36.02843,
+            "start_longitude": 174.50713,
+            "end_latitude": -36.0277,
+            "end_longitude": 174.50642,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 321,
+        "fields": {
+            "name": "Waip\u016b Cove",
+            "start_latitude": -36.02956705480029,
+            "start_longitude": 174.50796206410655,
+            "end_latitude": -36.028838943148166,
+            "end_longitude": 174.5072409636325,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 2
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 151,
+        "fields": {
+            "name": "Waitangi Estuary - South Side - Clive River Mouth 1",
+            "start_latitude": -39.56966727044393,
+            "start_longitude": 176.9287964982697,
+            "end_latitude": -39.568885951339794,
+            "end_longitude": 176.92870228567804,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 211,
+        "fields": {
+            "name": "Waitangi Estuary - South Side - Clive River Mouth 2 ",
+            "start_latitude": -39.571744389868876,
+            "start_longitude": 176.92924769611741,
+            "end_latitude": -39.57089228559245,
+            "end_longitude": 176.92901283519055,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 7
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 109,
+        "fields": {
+            "name": "Waitangi Regional Park - Te Atea a Rangi",
+            "start_latitude": -39.56514,
+            "start_longitude": 176.92703,
+            "end_latitude": -39.56429,
+            "end_longitude": 176.92665,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 288,
+        "fields": {
+            "name": "Waitarere Beach - North",
+            "start_latitude": -40.50147054206234,
+            "start_longitude": 175.20581974744144,
+            "end_latitude": -40.5021977,
+            "end_longitude": 175.2056354,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 115,
+        "fields": {
+            "name": "Waitataramoa Bay - Central Bay",
+            "start_latitude": -36.81035117730444,
+            "start_longitude": 175.45689829525213,
+            "end_latitude": -36.81054862910125,
+            "end_longitude": 175.45800057590577,
+            "width": 0.0,
+            "above_high_tide": 1,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 204,
+        "fields": {
+            "name": "Waituna Lagoon - Waituna Lagoon",
+            "start_latitude": -46.5700289,
+            "start_longitude": 168.6734277,
+            "end_latitude": -46.5691773,
+            "end_longitude": 168.6735043,
+            "width": 0.0,
+            "above_high_tide": 7,
+            "below_high_tide": 1
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 554,
+        "fields": {
+            "name": "Wakaaranga Primary School",
+            "start_latitude": -36.896136,
+            "start_longitude": 174.894405,
+            "end_latitude": -36.896136,
+            "end_longitude": 174.894405,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 573,
+        "fields": {
+            "name": "Wakanui beach - carpark ",
+            "start_latitude": -44.02762417219954,
+            "start_longitude": 171.86295250446707,
+            "end_latitude": -44.027189235243966,
+            "end_longitude": 171.86406855487436,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 446,
+        "fields": {
+            "name": "Water Street Car Park, Whang\u0101rei",
+            "start_latitude": -35.72652,
+            "start_longitude": 174.3187,
+            "end_latitude": -35.72652,
+            "end_longitude": 174.3187,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 503,
+        "fields": {
+            "name": "Waverley Beach",
+            "start_latitude": -39.832094,
+            "start_longitude": 174.633436,
+            "end_latitude": -39.83175,
+            "end_longitude": 174.63234,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 39,
+        "fields": {
+            "name": "Wellington Harbour - Breaker Bay East",
+            "start_latitude": -41.32993,
+            "start_longitude": 174.83336,
+            "end_latitude": -41.32978,
+            "end_longitude": 174.83455,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 512,
+        "fields": {
+            "name": "Wellington Harbour - Hataitai Beach, Evans Bay Parade",
+            "start_latitude": -41.30566385405541,
+            "start_longitude": 174.79980924181265,
+            "end_latitude": -41.30591398005811,
+            "end_longitude": 174.7992026428655,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 7
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 49,
+        "fields": {
+            "name": "Wellington Harbour - Hikoikoi Reserve, Petone Beach",
+            "start_latitude": -41.23445,
+            "start_longitude": 174.89292,
+            "end_latitude": -41.23395,
+            "end_longitude": 174.89193,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 158,
+        "fields": {
+            "name": "Wellington Harbour - Hinds point, Pencarrow Coast ",
+            "start_latitude": -41.3355690613774,
+            "start_longitude": 174.86022401617362,
+            "end_latitude": -41.334808152207486,
+            "end_longitude": 174.8608653994043,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 27,
+        "fields": {
+            "name": "Wellington Harbour - Honiana Te Puni Reserve, Petone Beach",
+            "start_latitude": -41.22561,
+            "start_longitude": 174.86482,
+            "end_latitude": -41.22583,
+            "end_longitude": 174.86599,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 46,
+        "fields": {
+            "name": "Wellington Harbour - Kaiwharawhara Estuary",
+            "start_latitude": -41.26181,
+            "start_longitude": 174.79113,
+            "end_latitude": -41.26207,
+            "end_longitude": 174.79163,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 4
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 532,
+        "fields": {
+            "name": "Wellington Harbour - Kau Bay, Miramar Peninsula",
+            "start_latitude": -41.288670446252134,
+            "start_longitude": 174.82995372300547,
+            "end_latitude": -41.28884474038298,
+            "end_longitude": 174.83115705527985,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 212,
+        "fields": {
+            "name": "Wellington Harbour - Lowry Bay",
+            "start_latitude": -41.259242064914275,
+            "start_longitude": 174.9124268800138,
+            "end_latitude": -41.25823245535295,
+            "end_longitude": 174.91261727952397,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 523,
+        "fields": {
+            "name": "Wellington Harbour - Petone Beach, Water Ski Club",
+            "start_latitude": -41.22494180913638,
+            "start_longitude": 174.85715763256735,
+            "end_latitude": -41.22509,
+            "end_longitude": 174.85846,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 134,
+        "fields": {
+            "name": "Wellington Harbour - Steeple Rock, Seatoun Beach",
+            "start_latitude": -41.3258191520124,
+            "start_longitude": 174.838754607725,
+            "end_latitude": -41.3250867417992,
+            "end_longitude": 174.838189328126,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 520,
+        "fields": {
+            "name": "Wellington Harbour - The Rec",
+            "start_latitude": -41.294145,
+            "start_longitude": 174.892705,
+            "end_latitude": -41.295043,
+            "end_longitude": 174.892896,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 560,
+        "fields": {
+            "name": "Wesley Primary School",
+            "start_latitude": -36.899571,
+            "start_longitude": 174.727706,
+            "end_latitude": -36.899571,
+            "end_longitude": 174.727706,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 468,
+        "fields": {
+            "name": "Whangamata Beach - Williamson Park ",
+            "start_latitude": -37.2146508,
+            "start_longitude": 175.8801342,
+            "end_latitude": -37.2151264,
+            "end_longitude": 175.8809866,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 157,
+        "fields": {
+            "name": "Whangaparaoa - Manly Sailing Club",
+            "start_latitude": -36.62801,
+            "start_longitude": 174.75619,
+            "end_latitude": -36.6281218282172,
+            "end_longitude": 174.757377187274,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 538,
+        "fields": {
+            "name": "Whang\u0101rei - Onerahi Pah Road (SEA)",
+            "start_latitude": -35.76495626,
+            "start_longitude": 174.35762383,
+            "end_latitude": -35.76418794,
+            "end_longitude": 174.35700239,
+            "width": 0.0,
+            "above_high_tide": 5,
+            "below_high_tide": 5
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 253,
+        "fields": {
+            "name": "Whang\u0101rei Heads - Ocean Beach",
+            "start_latitude": -35.8384545521,
+            "start_longitude": 174.5752473977,
+            "end_latitude": -35.8379665308,
+            "end_longitude": 174.573348639,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 254,
+        "fields": {
+            "name": "Whangaumu Bay - Wellingtons beach vehicle access",
+            "start_latitude": -35.6368050674,
+            "start_longitude": 174.53129229064,
+            "end_latitude": -35.6359489463,
+            "end_longitude": 174.531106155777,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 101,
+        "fields": {
+            "name": "Whitireia Park - Onehunga Bay",
+            "start_latitude": -41.09374,
+            "start_longitude": 174.85673,
+            "end_latitude": -41.09381,
+            "end_longitude": 174.85553,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 8
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 469,
+        "fields": {
+            "name": "Williams Road Parking, Paihia",
+            "start_latitude": -35.282715,
+            "start_longitude": 174.090715,
+            "end_latitude": -35.282715,
+            "end_longitude": 174.090715,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 461,
+        "fields": {
+            "name": "Wintle Street, Mangawhai Surf Beach",
+            "start_latitude": -36.08078,
+            "start_longitude": 174.59557,
+            "end_latitude": -36.08078,
+            "end_longitude": 174.59557,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 147,
+        "fields": {
+            "name": "Woodend Beach - Woodend Beach Rd",
+            "start_latitude": -43.3374248,
+            "start_longitude": 172.710847,
+            "end_latitude": -43.3365083,
+            "end_longitude": 172.7109853,
+            "width": 0.0,
+            "above_high_tide": 10,
+            "below_high_tide": 10
+        }
+    },
+    {
+        "model": "DrainageLitter.Drainage",
+        "pk": 457,
+        "fields": {
+            "name": "WSP, Whangarei",
+            "start_latitude": -35.72059,
+            "start_longitude": 174.31995,
+            "end_latitude": -35.72059,
+            "end_longitude": 174.31995,
+            "width": 0.0,
+            "above_high_tide": 0,
+            "below_high_tide": 0
+        }
+    }
+]
